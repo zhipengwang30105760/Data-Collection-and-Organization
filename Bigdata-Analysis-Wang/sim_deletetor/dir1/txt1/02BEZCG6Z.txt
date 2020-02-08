@@ -1,0 +1,7734 @@
+NIH Public Access
+Author Manuscript
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+Published in final edited form as:
+J Biomed Nanotechnol. 2013 September ; 9(9): 1441–1470.
+
+Entering the Era of Nanoscience: Time to Be So Small
+
+Vuk Uskoković
+Therapeutic Micro and Nanotechnology Laboratory, Department of Bioengineering and
+Therapeutic Sciences, University of California, 1700 4th Street, San Francisco, CA 94158-2330,
+USA
+Vuk Uskoković: vuk21@yahoo.com
+Abstract
+
+The field of nanoscience has produced more hype than probably any other branch of materials
+science and engineering in its history. Still, the potentials of this new field largely lay
+undiscovered ahead of us; what we have learnt so far with respect to the peculiarity of physical
+processes on the nanoscale is only the tip of an iceberg. Elaborated in this critical review is the
+idea that the surge of interest in physical chemistry of phenomena at the nanoscale presents a
+natural consequence of the spatial refinement of the human ability to controllably manipulate the
+substratum of our physical reality. Examples are given to illustrate the sensitivity of material
+properties to grain size on the nanoscale, a phenomenon that directly contributed to the rise of
+nanoscience as a special field of scientific inquiry. Main systemic challenges faced by the present
+and future scientists in this field are also mentioned. In part, this perspective article resembles
+standing on the constantly expanding seashore of the coast of nanoscience and nanoengineering
+and envisioning the parts of the island where the most significant advances may be expected to
+occur and where, therefore, most of the attention of scientist in this field is to be directed: (a)
+crossing the gap between life science and materials science; (b) increasing experimentation
+sensitivity; (c) crisscrossing theory and experiments; and (d) conjoining top-down and bottom-up
+synthetic approaches. As for materials and the application areas discussed, a special emphasis is
+placed on calcium phosphate nanoparticles and their usage in controlled drug delivery devices and
+other applications of biomedical relevance. It is argued that the properties of nanoparticles as drug
+carriers often comprise the critical determinant for the efficacy of the drug therapy. Therefore, the
+basic properties of nanoparticles to be optimized for the purpose of maximizing this efficacy are
+discussed: size, size distribution, morphology, polymorphic nature, crystallinity, biocompatibility,
+biodegradability, drug elution profiles, and aggregation propensity.
+
+Keywords
+
+Calcium Phosphate; Drug Delivery; Nanoparticles; Nanoscience; Nanotechnology
+
+INTRODUCTION: HOW NANOSCIENCE SPRANG INTO LIFE
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Although nanoparticles have existed on the planet Earth since the earliest days of its cosmic
+conception, nanoscience stands for one of the newest and most prosperous subfields of
+materials science. Unequivocal beliefs are shared in its potential to revolutionize all fields of
+natural sciences. This section will explicate the causes behind the birth of this scientific
+discipline. Since the total body of its knowledge is comparable to the tip of an iceberg, it can
+be considered to still exist in the embryonic stage of its development. The following sections
+in the discourse will focus on the formulation of some of the central systemic challenges that
+will be faced on the path of its growth and maturation.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 2
+
+The progress of humanity throughout the history has corresponded to a gradual increase in
+the fineness with which we are able to controllably reshape the material substrate of our
+environment.1 As shown in Figure 1, critical boundaries incorporated within the products of
+human creativity have thus been created at an ever finer scale. As the result, we have
+witnessed miniaturization of devices in our everyday surrounding. The natural consequence
+of this is that, as of a few decades ago, materials science has entered the era of controlling
+physical processes at the nanoscale. Potentials for producing ever more potent technological
+and biomedical applications have thus arisen. Yet, as the limits in controllability are
+stretched more than ever, questions have been posed: how far would we be able to go from
+now on? Certainly, in the realm of nanoscience, advances are not only possible, but seem
+inevitable too. The discourse that follows is organized around an attempt to outline some of
+the provinces within the kingdom of nanoscience where the most critical advances may be
+expected to be made in the near future. At the same time, those could be seen as currently
+the most exciting frontiers in the investigation of physical phenomena at the nanoscale.
+
+One of the underlying premises of materials science is that properties of materials can be
+deduced from the known microstructure, the term that describes ways in which the perfect
+symmetry of an ideal crystal of a given composition is disrupted by imperfections. In
+addition to intracrystalline defects, these intrinsic imperfections are also directly
+proportional to the concentration of grain boundaries, which is, in turn, inversely
+proportional to the grain size. Consequently, many are physical properties that could be
+described as a function of the size of the grains, alongside their shape, orientation, spatial
+distribution, etc. Nanoscience as a special field of inquiry spontaneously emerged a couple
+of decades ago as a branch of physical chemistry of solid state from the need to explain
+peculiarities observed upon extrapolation of specific physical qualities that are a function of
+the grain size and entrance into the size region lower than 100 nm (Fig. 2(a)). Namely, the
+competition between high interfacial energy and the quantum nature of many physical
+properties at such a small scale produces drastic changes in the properties of materials
+following negligible modifications of the particle size, polydispersity, inter-particle
+interaction or morphology. The first observation of such deviations from a law that describes
+a physical property of a material as a function of its grain size came from the failure of the
+Hall-Petch law.2 Namely, although the latter suggests inverse proportionality between the
+grain size and yield strength (the stress under which the material begins to deform
+plastically) due to the ability of grain boundaries to impede the movement of dislocations,
+Figure 2(b) demonstrates a typical drastic drop in microhardness at sufficiently low,
+sub-100-nm particle sizes and the consequent deviation from the function predicted by the
+Hall-Petch relationship.
+
+Other examples of such dramatic changes in material properties upon seemingly minor
+variations in the particle size are given in Figures 3–7. In Figure 3(a), shown is the melting
+point of Al2O3–Cr2O3 alloy, approximately constant with respect to the chromate content,
+but greatly depending on the particle size when the latter reaches the nanosized range6 (<
+100 nm by convention,3 although this limit is often taken to be 300 nm in the biomedical
+milieu4). A greater difference in the melting point is produced by a drop in the particle size
+from 20 to 8 nm than by reducing the particle diameter from 100 to 20 nm, demonstrating
+that not only does a micro-to-nano transition in the grain size of a material entail drastic
+changes in the material properties, but also that a minor change in the grain size at the
+nanoscale can have far more drastic effects on the materials properties than the very
+transition from bulk to nano. Figure 3(b) shows the melting temperature of indium as
+dependent not only on the particle size, but on the method of preparation too; thus, a sample
+prepared by ball-milling exhibits the melting point that exponentially decreases with a
+decrease in the particle size, while an opposite trend is displayed by the sample synthesized
+by melt-spinning7 (Fig. 3(b)). This highlights another truism of particularly critical
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 3
+
+relevance for the field of nanoscience: the method of preparation oftentimes has a crucial
+effect on the materials properties.
+
+The phase diagram for a germanium-based alloy is shown to drastically differ depending on
+whether the particle size is 32 or 54 nm8 (Fig. 3(c)). Local density of states, a measure of the
+band gap of a conductive material, is then shown to depend on the particle size and reaches
+values around 1, indicating the virtual nonexistence of the band gap and thus the loss of
+conductivity of metallic particles (Fig. 3(d)). A similar conductor-to-insulator transition
+induced by a decrease in the particle size is displayed in Figure 4(a)–(b) for the case of
+nanostructured Nb films.9 The logarithmic dependence of resistivity on the particle size
+shown in Figure 4(b) dictates that the transition from micrograins to 10-nm-sized particles
+produces the same magnitude of increase in resistivity as the transition from 10-nm-sized
+particles to 5-nm-sized ones does.
+
+The peculiarities entailed by micro-to-nano structural transitions are further illustrated by the
+fact that most metals become insulators when their particles size reaches nano scale, and that
+as the result of the reduced free path of electrons traversing disordered grain boundary. On
+the other hand, some ceramics undergo the opposite transition and become conductive in the
+nanoparticulate form, the effect that is either associated with increased concentration of
+vacancies along the grain boundary with decreasing grain size, contributing to higher lattice
+entropy and higher ionic conductivity, as in the case of CaO10 (Fig. 4(c)) and ZrO2-Y2O3,12
+or is due to electronic conductivity resulting from the accumulation of free electrons in the
+space charge layer at the grain boundary, as in the case of CeO2 (Fig. 4(d)). Figure 4(d)
+shows how electrical conductivity of Gd-doped cerium oxide increases in direct proportion
+to the grain boundary surface area per unit mass.11 How dramatic this change in the overall
+conductivity of the material can be is demonstrated by the case of rutile,13 TiO2, where a
+fivefold reduction in the particle size, from 260 to 50 nm, led to a few thousands of times
+higher conductivity, from 1.4 · 10−6 to 4 · 10−3  −1 cm −1. As for magnetic properties of
+materials, ferromagnetic compounds in their bulk form typically transform to one of two
+forms of paramagnetism as their magnetic domain size begins to exceed the particle size: (a)
+regular paramagnetism in cases when the combination of surface relaxation, lattice
+expansion and incorporation of impurities interferes with the magnetic ordering to a drastic
+enough extent, or (b) superparamagnetism in cases when magnetic ordering in the particle
+core is still sufficient to enable significant collective dipole orientation in the external field
+(Fig. 5(a)). On much rarer occasions, however, observable is the opposite effect:
+transformation of a paramagnetic material to a ferromagnetic one paralleling the bulk-to-
+nano transition, as exemplified by the case of ZnFe2O4 (Fig. 5(b)). Figure 5(c)–(d)
+furthermore shows the effect of increased sensitivity of sensory surfaces of SnO2 and In2O3
+to different gases as a result of the smaller particle size and increased surface area. The
+increased reactivity of nanoscale surfaces is an effect utilized in various biomedical
+microelectromechanical systems (Bio-MEMS) for detection of physicochemical agents,
+including disease biomarkers, at ultralow concentrations.14,15
+
+Surface effects are, however, only one reason behind the appearance of novel properties of
+materials when their grain sizes become reduced to nano scale. Namely, as the particle size
+decreases, more and more atoms find themselves positioned on the comparatively disordered
+particle surface and exposed to greater interfacial energies than those experienced by the
+atoms in the interior of the particle (Fig. 6(a)). For example, a half of the atoms comprising a
+spherical particle with 3 nm in diameter reside on the particle surface. Another effect
+coupled to the surface one comes from the quantum confinement apparent when the critical
+dimensions for a physical quality, often defined by the particle size limits, become
+comparable to the wavelength of the wave function used to describe the given quality in
+quantum terms. Quantum confinement effect is demonstrated in Figure 6(b) on standing
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 4
+
+waves that fit within a resonance box only in specific wavelengths, without permitting any
+intermediate wavelengths to occur. In other words, as the space in which the physical quality
+describable by the wavelength of electromagnetic radiation becomes limited, the given
+quality tends to adopt very specific and well defined states. Quantization, that is, formation
+of discrete, precisely determined and oftentimes tunable energy levels takes place under
+such conditions of confinement. Figure 7 thus demonstrates how a seemingly minor change
+in the size of Ag and Au particles modifies their quantum states and thereby the optical
+response. The color of the particle sols correspondingly becomes tunable by controlling the
+particle size as well as their shape.
+
+All in all, systematic observation of these and other peculiarities occurring at the nanoscale
+and a belief that they could be explained within a single framework of thought led to the rise
+of a special new scientific discipline: nanoscience, or the science of the small, as it has been
+informally baptized.
+
+CROSSING THE GAP BETWEEN LIFE SCIENCE AND MATERIALS SCIENCE
+If you think that the first line in this section has been inadvertently indented, you are wrong.
+It was intentionally drawn to signify nothingness: pure blankness in space and time.
+
+This is how this section will start. And then a question: “What results from our staring for
+too long at a single patch of reality?” Blindness, you might say. For, to observe qualities in
+physical systems, we need to compare their features with some remote standards. For this
+reason, Rudyard Kipling lamented, “Who knows England who only England knows.” 21
+This is why I will draw a bridge (Fig. 8), place materials scientists on one coast, life
+scientists on the other, and invite you to walk towards the opposite coast from the one that
+you have inhabited. The hypothesis I offer here is that great things could be learned not only
+of the side onto which we step, but also of the one that we have temporarily left behind.
+
+As we climb from the complexity level of fundamental physics to those of chemistry,
+biochemistry and molecular biology, biology, psychology, anthropology, ecology, sociology
+and other social sciences, scientific approaches become less intricate despite the fact that the
+systems subjected to our scrutiny are, in reality, more complex. This impoverishment of
+methodological intricacy is naturally reflected in a lesser emphasis on rigorous and ultrafine
+quantification. Peering into a biochemistry lab for the first time, physical chemists gotten
+used to exceptional precision in experimentation thus often become surprised realizing how
+approximate concentrations of chemicals used in reactions are. Partially, this is in
+accordance with the highly pronounced qualitative character of molecular biology, naturally
+arising from the fundamental reliance on molecular recognition effects in the research
+methodology that is paradigmatic in life science labs. On the other hand, it is a logical
+response of scientists to dealing with highly unpredictable and hardly controllable systems,
+which even the simplest conceivable biological structures are. For, with this ascent from the
+atomic scale to the macroscopic scale, the systems subjected to scientific scrutiny become so
+complex that they require significant simplification thereof lest the practicality of the given
+scientific methodologies be threatened. And as investigated systems become less complex in
+the schemes of their investigators, so does the complexity of the exploratory approach
+applied become spontaneously reduced. The mathematical representations of
+physicochemical phenomena in the range of materials science, dealing with finer and less
+dynamic details of Nature, are thus markedly more intricate than those used to represent the
+biochemical phenomena where the statistical regimes and approximations that limit the
+ability to scrupulously study these phenomena on the quantum scale begin to reign. Needless
+to add, all these things contribute to the tremendous gap between materials scientists and life
+scientists of the modern day, despite the fact that the most exciting research takes place
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 5
+
+exactly along their intersections. However, as is the case with all the interdisciplinary areas
+of our inquiry, they demarcate both the riskiest and the most potentially rewarding areas of
+research. This, on the other hand, explains why the majority of scientists—naturally inclined
+to stay in the safety of their narrow fields of specialization and remain diligent paradigm-
+builders instead of groundbreaking paradigm-shifters—decide to avoid those challenging
+interdisciplinary encounters. Today, they are still entered mainly by those whose curiosity
+lives up to the norm ‘who dares, wins.’
+
+A vital challenge for this brave new type of scientists that dwell on any of these two
+mainstream sides of the contemporary research is to build a bridge that connects them and
+do exciting research either right on it or on their own respective coasts while carrying
+precious goods and insights across this bridge. The symptoms of the gap between the two
+fields, however, could be recognized in different methods and vocabularies that biological
+and materials scientists employ to describe and fundamentally understand the subjects of
+their inquiry. Whether the former talk about polymerase chain reactions, various blots and in
+vitro assays, or the latter refer to photonics, semiconductors or crystal growth phenomena,
+most core materials and life scientists find the terms from an opposite field
+incomprehensible. Even identical terms sometimes have completely different connotations,
+as the example of the Latin phrase ‘in situ’ can demonstrate. While it signifies RNA
+expression assays for a life scientist, it stands for real-time sensors or syntheses that yield a
+desired material instantaneously, with no need for post-processing treatments, among
+materials scientists.
+
+While the former mostly tackle highly specific molecular recognition properties of
+biomolecules, the latter rely on more robust, math-based and classical physical concepts.
+Yet, it is an inevitable challenge for the frontiers of materials science, and especially its nano
+fields, to adopt synthetic and characterization approaches applied in life sciences.
+Biomedical contexts of a large extent of the modern materials science research dictate
+that.22–24 Many biocombinatorial screening techniques, including selective adsorption using
+phage display panning techniques, successfully applied to assess specificity of protein-
+nanomaterial interactions, have led to important and highly functional organic-inorganic
+interfaces, alongside room temperature procedures for preparation of oxides, ranging from
+copper oxide25 to calcium molybdate26 to germanium oxide,27 all of which would have
+otherwise required high annealing temperatures for their formation. However, although
+numerous highly specific interactions between polypeptides and inorganic surfaces were
+elucidated and applied using this technique, it still does not allow for discerning the aspects
+of crystal formation on which the proteins have the most decisive influence: nucleation,
+diffusion or surface-controlled crystal growth, aggregation of subunits, morphological
+evolution during aging, et cetera (strictly speaking, all of these aspects are intertwined and
+affecting one of them is hardly possible without affecting all the other). Clearly, a successful
+rapprochement of the language of life scientists and materials scientist, the former of whom
+would bring in the knowledge of the kinetics of protein conformational changes, adsorption
+and assembly and the latter of whom would contribute with the knowledge on the crystal
+faceting and growth, conditions yielding answers to these and similar questions.
+
+Standing on the bridge that connects these two fields, one would also be able to understand
+better the currently odd and unexpected effects of nanoparticles on cells and organisms.29
+Namely, depending on the particle composition, surface chemistry and stiffness, as well as
+the experimental context in which they are assessed, nanoparticles can be more or less toxic
+than their microsized counterparts. For example, 20-nm sized polytetrafluoroethylene
+particles turn out to be toxic and the 130-nm ones harmless,30 whereas 25-nm sized CeO2
+particles are safe and 250-nm ones are toxic.31 Also, minor changes in the particle size
+sometimes have dramatic effects on their biodistribution or cellular uptake profiles.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 6
+
+Dendrimers with 3–6 nm in size were thus rapidly excreted through the kidneys, while the
+6–8 nm sized particles localized in tumor tissues and 15-nm sized ones were taken up by the
+macrophages.32 In another study, the uptake efficiency peaked for 50-nm sized gold
+nanoparticles and decreased in a size-dependent manner at both smaller and larger size
+ranges.33 Other studies came to conclusion that 20–25 nm is the optimal size for the cellular
+uptake of gold nanoparticles, indicating that smaller is not necessarily better.34,35 The
+uptake of 50-nm sized polystyrene nanoparticles by human intestinal Caco-2 cells was, on
+the other hand, smaller than for any particles in the 0.1–1 µm range,36 suggesting that not
+only are countless particle properties, including, naturally, the synthesis method,37 involved
+in defining the nanoparticlecell interaction, but the cell type and metabolism too. Then,
+displayed in Figure 9 is the percentage of depolarized human alveolar basal epithelial cells,
+directly indicative of mitochondrial damage, following incubation with micro- and nano-
+particles of different chemical composition. Interestingly, only in the case of copper oxide
+did nanoparticles induce a significantly more damaging effect—reflected in DNA damage
+and reduced cell viability too—than their microsized counterparts. Although most
+commercially applied nanoparticles are either confined within functional devices or coated
+with protective layers, which minimizes their exposure to air and thus mitigates their
+possible toxic effects,38 toxicity assessments are expected to attract more funding in future.
+This is especially so since it is known that not only are material properties often subject to
+dramatic changes as the grain size decreases down to the nanoscale, but the same effect
+applies to the biological response to them.39 In fact, the field of nanoscience arose to explain
+peculiar effects that nanosized particles exhibited in comparison with their bulk counterparts
+in the context of physics and chemistry, and assessing the same from different angles may
+lead to the birth of many new natural and social science fields of inquiry.
+
+Central to the development of biomedicine are, similarly, not only physical pathologies, but
+the necessity of successful medical treatments to induce an inflammatory response at first.
+Namely, a medical body of knowledge in bone repair using exogenous implants could
+remind us that every successful implantation of a biomaterial is followed by a certain degree
+of inflammation. Avoiding the latter would imply a complete inertness of the body to the
+foreign material, which would signify all but a healthy and sensitive response. Mild
+inflammation attracts leukocytes and macrophages and stimulates blood vessels, thus
+promoting regeneration of the tissue. The more of the regenerative growth, the less of the
+fibroblast accumulation and the lesser the chance for the formation of scar at the site of the
+wound repair. Similarly, for gene transfection to be effectively performed, required is a
+carrier that exhibits moderate levels of cytotoxicity, able to reversibly rupture the cell
+membrane and invasively penetrate the cell prior to releasing a plasmid that will travel to the
+nucleus. Then, just as shoveling disturbs the soil but helps seeds be sown deeply into it, so
+must drug delivery devices maybe be mildly harmful in order to intrude into the organism
+and distribute a benevolent agent to it effectively. Oral drug delivery carriers are thus being
+designed so as to reversibly disrupt the tight junction between epithelial cells in the intestine
+—an effect otherwise associated with pathological inflammation—so as to enable the
+permeation of drugs otherwise large enough to be able to permeate the epithelium per se.40
+Years after asbestos was banned from usage, research is done on similarly elongated silicon-
+based nanoparticles for the purpose of drug delivery across the epithelium, assuming that
+they can be optimized to produce just enough damage to the body to enable an effective
+delivery of therapeutic agents.39
+
+Furthermore, it is known that bone is a continuously regenerated organ, but it is less
+acknowledged that in order for the cellular regeneration to be triggered, a fracture needs to
+occur first. Although the latter mostly appears in form of microscopic cracks, this still shows
+the importance of imperfection and fragileness for the sake of preserving regenerative
+potentials. Since the inflammation is an integral part of a healthy response of the organism
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 7
+
+to implanted foreign material and since most effective drug delivery approaches utilize
+vehicles that interfere with the integrity of the targeted tissue to a certain extent (i.e., they
+are harmful to just about the right extent), any problematic effect that nanoparticles are
+found to exert on the body could be turned into an advantageous one with a little bit of
+imagination. This could be directly inferred from the hereby exposed viewpoint that
+witnesses the emergence of nanoscience and its applicative findings from the puzzling
+peculiarities observed at the nanoscale. For example, some time after it had been found out
+that nanoparticles have a tendency to accumulate in the lymph nodes,41 this effect began to
+be utilized in preparation of nanoparticle formulations for targeting lymph node dendritic
+cells and delivering adjuvants, suspensions of antibodies used to boost immune response,
+thereto.42,43 Therefore, just as shelled mollusks form calcium carbonate pearls as a response
+to irritating particles of sand and just as binocular creatures turn the binocular disparity from
+the cause of disorienting double vision to the source of stereoscopic vision, so could we
+expect the future to bring many instances of transformation of the harmful and perplexing
+into the remedial and enlightening in the domain of nanoscience.
+
+IT’S ALL IN A PARTICLE: DRUG DELIVERY APPLICATION AS AN
+EXAMPLE
+
+As life science and materials science coalesce to an ever greater extent, biomedical
+therapeutic techniques are expected to be ever more affected by finely tuned and
+controllable drug delivery methods. In that sense, it is worth recalling that the properties of
+the particle used for drug delivery largely predetermine the pharmacokinetic efficacy and
+potency of the drug. Many hydrophobic drugs that are orally unavailable in their nascent
+forms but are easily deliverable when encapsulated within polymeric particles neatly
+illustrate that even though one may be in possession of a most pharmaceutically potent
+chemical, without the right form of delivery its potency would not be of much use. Another
+example of this effect comes from cholesterol.44 Namely, the popularly mistaken dichotomy
+of “good” and “bad’ cholesterol refers to an identical chemical structure of cholesterol
+molecules, although bound to different cholesterol-transferring lipoprotein complexes in the
+bloodstream: high-density ones in case of the “good” and low-density ones in case of the
+“bad.” Hence, the “particle” to which cholesterol is bound defines whether it will act as a
+beneficial or health-threatening agent.
+
+The following subsections are named after the key properties of particles applied in drug
+delivery that should be optimized for a given application in the body.
+
+Aggregation Propensity
+
+Ever since the definition of a nanomaterial as a solid physical structure whose grain size
+does not exceed 100 nm along at least one axis was proposed, discussions have been held
+among nanoscientists over whether agglomerated nanoparticles can be considered as
+nanosystems or not.45 Sometimes such agglomerated powders retain the properties of their
+nanoparticulate units. Sometimes, however, they lose the properties of the discrete units and
+begin to resemble a highly defective bulk crystal. Whether the former or the latter is the case
+greatly depends on the property in question; thus, for example, whereas only mild
+agglomeration of magnetic and luminescent nanoparticles, which would have comprised a
+superparamagnetic material if sufficiently separated, leads to appearance of unintended
+ferro- or ferri-magnetism,46 aggregation of these particulate subunits need not markedly
+modify their photoluminescence. And while nanoscientists were busy quarreling over the
+purely etymological issue of whether agglomerates of nanosized particles should be
+considered as nanosystems or not, eyes have become more and more focused on controllably
+and symmetrically aggregated assemblies of nanoparticles, nowadays known as colloidal
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 8
+
+crystals or superlattices.47,48 Just like the organization of atoms in crystals leads to
+delocalization of valence electrons between atomic orbitals of adjacent lattice sites, resulting
+in energy drops that exceed the thermal energy of the given atoms by two orders of
+magnitude on average, yielding effective properties untraceable to the constituent units
+alone, so does organization of nanocrystals within symmetrically ordered superlattices lead
+to electronic coupling between nanocrystals that counteracts the quantum confinement,
+yielding new and often unexpected properties to the overall system.49 Still, the effect of
+controlled aggregation has been utilized to a minor extent only, even though such new ways
+to control the aggregation properties of nanoparticles may lead to novel applications in the
+field of biomaterials and drug delivery. An example of how controlled aggregation can lead
+to sustained released of pharmaceutics comes from the recently utilized method for
+preparation of calcium phosphate particles loaded with antibiotics, proteins or small organic
+molecules.50 Efficient loading and sustained release of the drug were shown to be
+consequential to the drying-induced aggregation of calcium phosphate nanoparticles and
+their gradual breaking in the solution, respectively (Figs. 10, 11).
+
+Nanoparticles are increasingly utilized for drug delivery purposes because of multiple
+benefits they offer. Firstly, they tend to increase the stability of drugs. A paradigmatic
+example is provided by paclitaxel nanoparticles stabilized with Pluronic F68, stable for
+years, in contrast with the same drug in dissolved form, undergoing complete degradation in
+less than 48 h.51 Secondly, nanoparticles as drug carriers allow for biodistribution of
+insoluble drugs and increase of their pharmacokinetic half-life. Thirdly, the degradation of
+nanoparticles in the body can be fine-tuned until prolonged release of the drug is reached;
+the need for repetitive dosages is thus overcome, enabling more sustained and leveled drug
+concentrations in the target area. Aside from the improved stability and sustained therapeutic
+release, drug encapsulation within nanoparticles can also enhance bioavailability of drugs
+administered via routes other than intravenous (IV). Both insoluble and soluble drugs can
+thus be incorporated within nanoparticulate sols and made transferable through blood in
+stable form for longer periods of time. Some corrosion-resistant metals form a protective
+oxide layer on their surface, and sensitive drug molecules encapsulated within particles often
+undergo a similar effect. Even if particles are made of drug only, the molecules on the
+surface may undergo degradation when exposed to air or solvent, protecting those in the
+interior of the particle. Additionally, drug delivery using fine particles offers the benefits of
+tissue-specific targeting via particle functionalization with appropriate moieties.52 This all
+explains why nanoparticulate colloids rather than solutions of drugs are often chosen as a
+more appropriate delivery form in pharmaceutics.53
+
+Still, there are no perfectly stable colloidal suspensions.54 When the attribute of stability is
+ascribed to a sol, it merely means that it takes comparatively long periods of time for the
+system to destabilize itself. In other words, aggregation of particulate units of one such
+system is sufficiently slow. Hence, although novices in the realm of chemistry often
+presume the precipitated powders to preserve their form once the crystal growth is over, that
+is quite an incorrect assumption. For, the “dance” of their molecules and incessantly ongoing
+phase transformations along the interface occur long after the preparation is over, all the way
+through their storage or aging. The same thermodynamic arguments applicable to colloidal
+systems can be used with respect to nanoparticles. The large surface area predisposes them
+to be unstable; when found in a medium in which a transfer of matter facilely occurs, they
+tend to undergo Ostwald ripening and minimize the surface area in contact with the
+environment by dissolution of smaller particles and growth of the bigger ones. If we were to
+translate the language of thermodynamics to the one of chemistry, we would convert the
+interfacial free energy to supersaturation and arrive at the original Ostwald’s observation:
+small particles have higher saturation limit than the bigger ones, which creates a
+concentration gradient between small and large particles whereby the growth units diffuse
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 9
+
+from the higher concentration in the vicinity of small particles to the areas with a lower
+concentration around bigger particles.55 Local supersaturation in the solution surrounding
+larger particles leads to precipitation of these units on their surface, inducing their growth. In
+turn, undersaturated “islands” in the solution simultaneously appear around the surface of
+the smaller particles, leading to their further dissolution.
+
+Now, whenever particles are preserved as dry powders, the air surrounding them will not
+present a medium that effectively mediates this transfer of matter. In general, the more inert
+the medium, the less good of a solvent it is for molecules comprising the particles, and the
+greater the barrier for Ostwald ripening will be. However, many applications demand the
+particles to be applied in a suspended form, and IV administration of pharmaceutical
+nanopowders is an example.56 In those cases, aggregation presents a most critical issue that
+leads to undesired modification of the particle properties over time.
+
+The size of nanoparticles furthermore often determines the mechanism of their transport
+across the cell membrane and the metabolic fate.57 By knowing that the cellular uptake and
+overall response oftentimes depend on the particle size and largely differ for aggregates and
+singlets of the same particulate composition,58 controlling particle aggregation clearly
+appears as a vital issue. An example is given by 10-nm sized gold nanoparticles designed to
+aggregate in mildly acidic intracellular environments through their hydrolysis-susceptible
+citraconicamide-functionalized surface.59 After they enter the cell as individual
+nanoparticles, they begin to aggregate in endosomes,60 contributing to the destruction of the
+targeted cell. Conversely, it was found out that certain nanoparticles can bind to the cell
+membrane only insofar as they are aggregated, but can play their intracellular delivery role
+only as individual entities.61 Unlike bigger, circa 100-nm sized D-penicillamine-coated
+CdSe/ZnS core–shell nanoparticles that were readily internalized by HeLa cells, smaller, 8-
+nm sized particles thus merely anchored to the cell membrane and only at higher dosages,
+when their clustering became significant and when they were able to trigger endocytosis by
+reacting with a sufficient number of receptors, they began to penetrate the cells.62 Local
+sedimentation of nanoparticles on the cell membrane is then required to enable cell entry
+and perfectly stable colloidal dispersions could thus often turn out to be not so perfect owing
+to their promotion of excellent electrostatic repulsion of the individual particles. In those
+cases, aggregation state is the favorable one in the extracellular environment, while the
+effectiveness of their application may still critically depend on their ability to re-disperse in
+the intracellular milieu. Namely, if large enough, particle aggregates are bound to be trapped
+in the endocytic vesicles of cells following their internalization, while the endosomal escape
+of theirs or of the active transfection agents that they may carry could be limited to
+nanosized singlets only.63 A similar case is observed for magnetic nanoparticles for
+hyperthermia therapies and other magnetism-based drug delivery applications (Fig. 12).
+Namely, these particles can be attracted by an external magnetic field only insofar as they
+form aggregates with sufficiently large magnetic moments, while their smart hyperthermic
+performance in the target area depends on their superparamagnetism, which is conditioned
+by the sufficient spacing between individual nanoparticles.64 Temperature was shown to be
+an effective parameter for achieving controllable aggregation/re-dispersion of iron-oxide-
+based polymeric micelle-like particles.65 For the purpose of guiding the particles along
+relatively wide channels in the body by means of an external field, they could be preserved
+in an aggregated form, and then re-dispersed before their entering the cell or other
+comparatively small focus area in the body.
+
+Still, agglomeration in formulations of intravenously administrable nanosized powders in
+pharmaceutics is considered undesirable from the safety viewpoint and principles of Stokes’
+law. As in accordance with the latter, (a) reductions in the particle size, (b) increases in the
+medium viscosity and (c) bringing the density of suspended particles and the dispersion
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 10
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Particle Size
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+medium closer to each other have been traditionally used to ensure greater stability of many
+commercial suspensions, including the pharmaceutical ones.66 Namely, the formation of
+particles larger than 5 microns from nanosols is feared to be prone to result in capillary
+obstruction and embolism.67 Typically, when it comes to nanosized particles, the addition of
+(a) ionic compounds so as to affect the thickness and density of the double charge layer
+around the suspended particles, and (b) surfactants so as to promote steric repulsion of the
+particles, are basic strategies used to prevent particle agglomeration.68
+
+Whether stabilization of sols using the former, electrostatic or the latter, steric effect
+presents a more optimal approach greatly depends on the nature of the solution medium.
+Thus, charge stabilization is of little effect in media with low dielectric constant, which
+includes most organic solvents, in which cases steric stabilization by the addition of
+surfactants or polymers is required to maintain the dispersed state and prevent flocculation.
+Furthermore, the amount of surfactant has to be optimized in order to provide the right
+conditions for stably dispersing the particles by its means. Namely, too little of it may leave
+enough space on the particle surface for particles to approach each other and clump, while
+too much of it may exceed the critical micelle concentration, separate the surfactant
+molecules from the particle surface or simply reduce their solvation, inducing their collapse
+and allowing flocculation to occur, something that the addition of surfactant was meant to
+prevent in the first place. The need to optimize the concentration of surfactant to prevent
+nanoparticles from irreversibly agglomerating is illustrated in Figure 13. Shown in it are
+polylactide-coglycolide spheres encapsulating a vinyl sulfone cysteine proteinase inhibitor,
+thoroughly meshed without polyvinyl alcohol (PVA) as a dispersant (Fig. 13(a)) and at its
+concentration of 1 wt% (Fig. 13(c)), and narrowly dispersed at [PVA] = 0.5 wt% (Fig.
+13(b)). The outcome of application of surfactants as dispersing agents also often turns out to
+be uncontrollable tangling of surfactant molecules when expulsion of the solvent molecules
+from the area where the surfactant chains have begun to interlace during particle– particle
+collisions is thermodynamically favored. There is no way yet to predict the free energy of
+surfactant-medium interaction that is responsible for this effect and the process of finding
+the optimal surfactant/medium pairs for a given particle composition and morphology can be
+burdensome due to its being based on empirical trial-and-error approach.69 Since
+aggregation of nanopowders is difficult to control in a finite time span, more attempts may
+be expected to be made in the future with regard to controllable aggregation and re-
+dispersion of particles.
+
+Differently sized particles have routinely been shown to produce different effects when
+applied as drug delivery agents.70–72 For example, if intravenously deliverable magnetic
+particles guidable by means of an external magnetic field are too small, their magnetic
+moments might be negligible and they would be uncontrollably carried away by the
+bloodstream. If they are too big, on the other hand, they might not be capable of
+maneuvering effectively across the blood vessels and the intercellular space. For this reason,
+it is often stated that different targets in the body require differently sized particles for the
+most optimal penetration and drug delivery. In support of this, invoked could be the fact that
+different cell types find differently sized topographic clues of otherwise chemically identical
+compounds most optimal for their attachment and growth. For example, while mesenchymal
+stem cells thrive best on arrays of TiO2 nanotubes with diameters of less than 30 nm,73 the
+metabolic activity of osteoblasts is highest when the diameter of said nanotubes is larger
+than 30 nm.74 Then, MC3T3-E1 fibroblasts found polymeric substrates with high contents
+of alginate most optimal for their spreading and proliferation, whereas L929 fibroblasts grew
+best on those with low alginate contents.75 On a side note, cytotoxicity of certain materials
+has been shown to be greatly dependent on the cell type. For example, silver nanoparticles
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 11
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Morphology
+
+were more toxic to macrophages than to lung epithelial cells,76 while cobalt-doped
+hydroxyapatite was toxic to osteoblastic cells and nontoxic to cells of the intestinal
+epithelium.77 Moreover, biodistribution profiles of certain types of particles are known to
+sometimes undergo a sharp change in the range of 1–5 nm, while any bigger particles, be
+they of nano- or micro-sized nature, show highly similar accumulation in vital organs.78
+
+The size distribution is also a crucial parameter and a special emphasis is placed on
+monodisperse particles (PDI < 0.1). One reason is that uniform sizes tend to result in
+uniform properties. The issues of inconsistent dosing consequently often result due to wide
+distribution of particle sizes (PDI > 0.5), an effect that also favors Ostwald ripening and
+destabilization of dispersions. Because Ostwald ripening is caused by the difference in
+solubility limit for small and large particles, the propensity of the system for it is inversely
+proportional to the narrowness of the particle size distribution. Hence, a rule of the thumb
+says that the more uniform the particles, the greater their stability with respect to Ostwald
+ripening. For the same reason, monodisperse nanopowders are preferred over polydisperse
+ones as precursors for the sintering of nonporous materials.79 To prevent the grain growth
+and retain the nanoparticulate nature of the material, two-step annealing is typically
+performed in those cases:80,81 the short one at higher temperatures, at which pores become
+thermodynamically unstable against shrinkage, so as to block the grain boundary migration,
+and then the prolonged one at lower temperatures to reduce the pores without grain
+growth.82
+
+On the other hand, living organisms are far-fromequilibrium systems, which may suggest
+that tailoring the structure, properties and functionality of materials that are meant to be
+interfaced with them should follow the route of greater reliance on similarly metastable
+nanoscale architectures. In that sense, examples of successful usage of various multimodal
+particle or pore size distributions could be mentioned. One of them pertains to
+hydroxyapatite cylinders shown to possess higher drug release rates and bone ingrowth
+potential when pore size distribution in them was bimodal rather than monodisperse.83 Also,
+polydisperse, not monodisperse particles were those that, following a long series of attempts,
+successfully self-assembled into virus-like superlattices.84 Likewise, randomly patterned
+PMMA substrates, without any osteogenic supplements, were shown to be effective in
+inducing differentiation of mesenchymal stem cells to osteoblasts, unlike the chemically
+identical substrates with a perfect translational symmetry,85 suggesting that too much order
+in the cellular environment can be detrimental for the cell growth. In fact, when it comes to
+fabrication of scaffolds for bone tissue engineering, combination of (a) larger pores that are
+to home osteoblasts and (b) smaller pores through which nutrients and metabolites would
+transverse presents a better choice compared to scaffolds composed of uniformly distributed
+pores of equal dimensions.86 After all, since biological systems are all about an entwinement
+of symmetry and asymmetry, perfection and imperfection, replicating such blends rather
+than focusing solely on perfect symmetries achievable presents a task whose
+accomplishment will bring great benefits to future materials scientists and engineers. To
+understand that diversification rather than fosterage of monotonous sameness is the path to
+be followed is a vital challenge to both experimentalists who unquestionably overvalue
+structural symmetries and science authorities that erroneously deem the uniformity of
+opinions and methodologies to be a merit and not a sign of a dead end in the progression of
+our creativity.
+
+In general, by controlling the shape of the particles, their contact surface could be tailored
+for a given application. Hence, for particles meant to have a high retention time in the
+bloodstream, spherical morphologies, having the lowest contact surface, would be the
+natural choice. In contrast, elongated, planar particles would present a logical choice for
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 12
+
+drug delivery carriers intended to adhere onto biological surfaces. Irregularly shaped, quasi-
+planar particles were thus shown to act as more effective drug carriers for delivery across the
+epithelium, owing to their larger surface area in contact with the epithelial layer of cells and,
+consequently, more efficient adherence thereto.87 Implicitly, these results challenge the
+widespread contemporary acceptance of the direct correlativity between the level of
+morphological symmetry of nano- and microparticles and their scientific appeal. This
+instance of more effective performance of asymmetric particles than their narrowly
+dispersed, spherical counterparts presents an excellent occasion for the correctness of the
+common beliefs that sphericity and symmetry directly translate to utility in the design of
+micro- and nanoparticles for biomedical or any other applications to be brought into
+question.
+
+Highly irregular, plate-shaped and cylindroid particles were also shown to adhere to tumor
+vasculature and be sequestered by the liver, spleen and lung to a much greater extent than
+spherical particles did.88 On the other hand, although a spherical particle has to be smaller
+than 200 nm in diameter to bypass the asymmetric filtering units in spleen, so-called slits,
+disk-shaped red blood cells with diameters of about 10 microns easily pass through it,89
+indicating that not only size of the particle, but its shape as well as stiffness are equally
+important properties thereof. Shape and texture of the particles can thus be optimized to
+promote adhesion by means of simple steric effects, and an additional example comes from
+the synthesis of silica beads with silicon nanowires outgrown from their surface (Fig. 14).
+These composite particles effectively adhered to microvilli of the epithelial cells of the
+gastrointestinal tract,90,91 prolonging the drug retention time and promoting the paracellular
+transport of small and medium sized drug molecules across the epithelium (Fig. 15).39
+
+As of recently, gold nanorods have also been favored over gold nanospheres, owing to the
+fact that the former exhibit a larger plasmon shift per refractive index unit and thus a greater
+sensitivity to changes in local environments.92 At the same time, the degree of cellular
+internalization of gold nanoparticles was shown to be directly proportional to their aspect
+ratio.93 Elongated particles also favor surface appearance of particular crystal faces, the
+slowest growing ones, which can have a tremendous effect on the interfacial energy and
+binding chemistry, as can be exemplified by the morphological modifications of Pt particles
+so that either hydrophobic (533) faces or wetted (553) ones, ostensibly similar in geometry,
+are exposed on the surface.94 Surface patterning has thus been applied to promote desired
+hydrophilicity and optimal peptide and cell adherence, demonstrating how morphology of a
+material can decisively affect its chemical interactivity.95 On the other hand, planar particles
+have a greater tendency to aggregate on blood vessel walls and block vital passageways, as
+exemplified by the typically plate- or needle-shaped cholesterol and apatite crystals that
+comprise atherosclerotic deposits.96 To avoid such asbestos-like apoptotic effects related to
+high aspect ratio morphologies,97,98 it is vital to carry out toxicity studies prior to biological
+application of such materials or show their solubility in relatively short periods of time, as is
+the case with silicon nanowires shown in Figure 14 or maghemite nanowires usable for cell
+manipulation and microrheology.99
+
+Crystallinity
+
+Kinetics of the formation of nanopowders, be it via precipitation or by top-down deposition
+and assembly, affects their crystallinity. In cases when the drug release is contingent upon
+the dissolution of the particles encapsulating it, their crystallinity can dramatically affect the
+drug elution profiles. One example could be found in calcium phosphate particles whose
+stoichiometry, that is, phase composition was used to tune their dissolution behavior and,
+hence, the release kinetics of small organic molecules, antibiotics and large polypeptides,
+e.g., bovine serum albumin, that the particles were loaded with by means of
+physisorption.100 As shown in Figure 16, the drug elution rate, directly proportionate to the
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 13
+
+solubility rate of the compound, is markedly higher for amorphous calcium phosphate than
+for its nanocrystalline phase, hydroxyapatite, with the crystallite size of 12 nm.
+
+In general, the dissolution of amorphous or less crystalline polymorphs is entropically
+favored over more crystalline phases with an identical stoichiometry. In this case, again, the
+distribution of crystallinity throughout the sample greatly matters. Namely, a minor amount
+of a crystalline phase in an amorphous sample is sometimes enough to induce the transition
+of the amorphous phase to a more stable, crystalline one. Just like Ostwald ripening is
+enhanced at wide size distributions, so do broad distributions in crystallinity favor the
+transition of an amorphous material to crystalline state. Owing to greater structural similarity
+of amorphous particles to the solution from which they were precipitated, the free energy of
+their formation is lower compared to that of well structured, crystalline particles.101 With
+the free energy relatable to supersaturation ratio, this translates to greater solubility limit for
+amorphous particles, as opposed to their crystalline counterparts, resulting in a similar
+gradient of concentration as that consequential to Ostwald ripening, and leading to
+dissolution of the amorphous phase and recrystallization of its atomic ingredients on the
+surface of the crystalline phase. Introducing a crystal into a sol composed of solely
+amorphous particles can thus sometimes induce a rapid transition of the particles into a more
+crystalline state. Surfactants, viscosity enhancers, ionic strength modifiers, the choice of
+dispersion media, sol density and temperature can all be used to somewhat control the
+crystallinity of the powders and its evolution in the course of aging following the synthesis
+step.
+
+Drug Release Profiles
+
+Achieving constant rates of delivery by means of slowly degrading and drug-releasing
+carriers implanted in the body is often presented as an ideal alternative to the traditional drug
+therapies based on repetitive administration and consequently inconsistent ups-and-downs in
+concentration of the active ingredient in the target area (Fig. 17(a)); however, more complex
+and specially designed concentration gradients of the released drug are expected to result
+from the future research in this field. Although burst releases have been traditionally
+considered as undesirable in the drug delivery field, sometimes there are clear advantages of
+theirs, as in the cases when drugs are antibiotics administered so as to eradicate a microbial
+source of infection. Namely, as shown in Figure 17(b), the ability of the carrier to release the
+drug in the amount that exceeds the minimal inhibitory concentration (MIC) for the given
+combination of the antibiotic and the pathological agent is crucial in prevention of the rise of
+resistance of the bacterial population to the administered antibiotic.
+
+Multiple-stage release profiles can be considered to hold potentially far greater benefits
+compared to monotonous drug elution kinetics. For example, the rapid initial release of
+paclitaxel from polymeric microparticles was effective in halting proliferation of ovarian
+cancer cells, while its more sustained, second phase of release allowed for gradual
+eradication of the tumor.102 The drug release profile considered desirable in targeting
+diseases that involve pain or hormonal disorders is a pulsating one, whereby periods of
+instantaneous release are followed by periods of minimal or no release, an effect that could
+be potentially achieved either by (a) making the carrier sensitive to environmental stimuli,
+be it pH,103 the presence of a disease marker,104 temperature,105,106 ultrasound107 or
+external electromagnetic fields,108,109 or by (b) the design of multishell particles, such as the
+triple-shell calcium-phosphate-DNA nanoparticles, for example.110
+
+In that sense, there can be no perfect drug release carrier, but only a perfect carrier for a
+given target area and pathology in the body. Not a single quality could be assessed nor
+defined without reference to both the system and its overall environment;111 consequently,
+no two drug delivery treatments should be the same. The ideal release properties depend on:
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 14
+
+(a) the drug that is to be delivered; (b) the nature of the illness treated for; and (c) the
+targeted area in the body. For example, some antibiotics, such as beta-lactam antimicrobials,
+are time-dependent, while others, including quinolones and amino-glycosides, are
+concentration-dependent (Fig. 17(b)).112 As for the nature of the pathology treated,
+suppression of cancer requires high therapeutic specificity, unlike bacterial or fungal
+infections. Cancer cells are notorious for developing resistance to drugs; therefore, prompter
+and more potent treatments are required when conceiving cancer chemotherapies. The target
+is then also ideally not only the cancer cell per se but the surrounding niche too, which may
+be healthy but is still producing growth factors to support the cancer cells.113 Unlike cancer,
+which is more pervasive and harder to eliminate, osteomyelitis tends to be more localized
+and spread with a well outlined front, with white blood cells clearly bordering the area of
+infection (Fig. 17(c)).
+
+Another example comes from the fact that the expression of osteogenic markers suggestive
+of bone formation greatly depends not only on the biomaterial used to augment the
+osteogenic response, but on the cell type and their immediate environment; thus, the same
+calcium phosphate materials were shown to induce only osteoconductive behavior of
+adherent MC3T3-E1114 fibroblasts, the pre-myogenic C2C12 cell line115 and SaOS-2
+cells,116 and markedly increased levels of osteogenic differentiation of human mesenchymal
+stem cells.117 Materials with strong anticancer properties may thus be expected to have a
+more suppressive or less metabolically augmentative effect on immortal cell lines than on
+stem-cell-derived or primary cells of the same type. The concept of intrinsic osteoinduc-
+tivity of specific calcium phosphate ceramics, meant to be definable with no reference to
+cellular types and milieus, can be therefore seen as fundamentally deficient.118,119
+Moreover, infections in the hardly approachable interior of bone and on the surface of teeth
+are quite different and, logically, call for different types of drug delivery. Finally,
+vascularization and other features of the target tissue largely predetermine the optimal drug
+release profiles, often dependent on the clearance period for the given particles. In that
+sense, it does make a difference whether particles are being injected to cancellous (i.e.,
+trabecular/spongy) bone, the most vascular hard tissue, or to less vascular cortical bone or
+even one of hard tissues in teeth, such as enamel that is deprived of any vascularization at
+all120 (Fig. 17(d)). The delivery carrier and the target area in the body are thus entwined
+within a feedback loop so that the former defines the scope of its potential application in the
+latter, while the latter calls for specific particle properties to be effectively treated.
+
+Biocompatibility
+
+As we see, the quality of a material applied to restore damaged tissues could not be defined
+without referring both to the area of its application in the body and the finest characteristics
+of the material. Differently sized particles would be required for drug-delivery treatments of
+different tissues,123 whereby different mechanical and chemical properties of the biomaterial
+are employed to tackle pathologies occurring at different scales. Finally, an essential feature
+of a biomaterial, defined as “a material intended to interface with biological systems to
+evaluate, treat, augment or replace any tissue, organ or function in the body,” 124 is its
+biocompatibility, which could not be measured without an interaction with the patient. Even
+though it is known that pathological states of an organism need to be explained in terms of
+both the effect of foreign factors and the susceptibility of the host organism, it is still
+puzzling why a specific material becomes refused by one and accepted by other patients,
+serving as a reminder of the subjective nature of every medical treatment. Needless to say,
+the effective application of each biomaterial critically depends on a favorable feedback
+interaction between the living system and the material, during which both are most often
+subject to change. A perfect hard tissue substitute is, thus, meant to be thoroughly absorbed
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 15
+
+by the body in the course of the regeneration of the treated tissue, which, though, still stands
+as an unattained ideal.
+
+Biodegradability
+
+Certain drug delivery agents possess artificial reservoirs from which the drug is released to
+the physiological environment125 or have the drug entrapped in surface pores;126 in those
+cases, degradability is in no way related to the drug release kinetics and the implanted
+material often has to be surgically removed at the end of its therapeutic lifetime. On the
+other side of the spectrum are particles that release encapsulated drugs only inasmuch as
+their structure degrades.127–130 It goes without saying that degradation properties of the
+material in question should be carefully analyzed so as to avoid their potentially toxic effect
+on the body. Some molecules, such as CTAB, are, for example, biologically inert when they
+are surface-bound; detached from the particle, they become highly cytotoxic.131 As science
+of nutrition can teach us132 and propositions of holism confirm,133 it is the synergy of
+different chemical components that is responsible for the effect each one of them
+individually will have on the organism.
+
+In the same light, we could conclude that all the variables in a physical system are tightly
+interconnected, and each one of the abovementioned parameters can be shown to depend on
+all the other ones. Moreover, most of these effects stand in an antagonistic relationship with
+each other; that is, modifying the synthesis conditions in the direction of promoting one set
+of desired properties most often has an unfavorable effect on other product properties. For
+example, formation of complex particle morphologies, e.g., platelets, star-shaped or
+uniaxially grown crystals, is conditioned by (a) a comparatively slow attainment of the
+metastable state from which the phase transition would occur, and (b) a slow corresponding
+crystal growth. In turn, this tardiness tends to have a detrimental effect on the particle size,
+provided one seeks to stay in the nanosized range. Namely, low nucleation rate that results
+under these conditions directly translates to low density of crystallization centers and,
+consequently, bigger particles. Conversely, the immediate downside of the mainstream
+methods for fabrication of ultrafine particles is the low level of control of particle
+morphology. By controlling the latter, however, many of the mentioned properties of
+biomedical relevance could be tuned. Drug release profiles thus often depend on the texture
+of the material; e.g., when drug molecules are stored in pores whose size is bigger than the
+molecular size, the drug is expected to be released by diffusion, whereas when the pore size
+is comparable to that of the drug molecules, zero order rate of release, constant over time,
+may be observed.134 Materials with rougher surfaces may also attract anchoring cells to
+them quicker than smooth materials can, which speeds up their degradation in the body and,
+hence, the drug release. Small molecules too tend to be best adsorbed on rough surfaces, as
+could be demonstrated by the absence of adsorption of carbon monoxide on atomically
+smooth gold.135 Titanium implants with naturally smooth surfaces have thus been shown as
+ineffective in binding cells; to prevent their rejection by the body, they are either coated with
+a more bio-compatible layer or subjected to sandblasting and etching procedures prior to
+their application in vivo.136 The necessity for a biomaterial to possess a rough surface, for
+only as such can the conditions for an optimal cell attachment be achieved, brings us over to
+the general question that pertains to intrinsic imperfections that all biomaterials are to ideally
+exhibit. Note that the same argument applies to adsorption of small molecules; namely, as it
+could be expected from the fact that most adsorption mechanisms are driven by the Gibbs
+isotherm, which dictates that the greater the surface energy, the greater the adsorption,
+hydrogen adsorption capacity becomes markedly enhanced as one shifts from using
+perfectly ordered carbon crystals on the atomic scale to those containing topological
+defects.137
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 16
+
+One of the crucial questions that the materials science applications in biomedicine will need
+to answer is how to define the optimal imperfections that each material applicable in
+biological systems, each one of which could be defined as a system composed of “unreliable
+components that achieve reliable outcomes,” 138 is to possess. Namely, in medicine of
+restorative hard tissues, for many years it has been considered that the stronger the material
+used as an in vivo substitute for the damaged tissue, the better. However, applying metals as
+substitutes for the damaged bone turned out to be unfavorable exactly because of their
+superior mechanical properties. Once implanted in the body, metals would absorb most of
+the mechanical stimuli that the surrounding tissue is subjected to and just as one’s living in a
+perfectly sterile environment slowly puts one’s immune system to sleep and makes one less
+resilient to intruding species, this stress-shielding effect caused the surrounding bone to
+become weaker and eventually completely resorbed, leading to the collapse of the local
+biomechanical structure.139 Similarly, if a biomaterial with identical elastic properties as
+natural bone is applied, the implanted cells would not do any work to “instill life” therein;
+eventually the probability for its rejection by the body would be high. Therefore, a
+biomaterial has to remain somewhat imperfect in order for the host cells to create a milieu
+capable of cell proliferation, tissue re-growth and full integration of the bioresorbable
+material. When the aforementioned titanium implants are subjected to etching to endow
+them with surface roughness, the processing makes them seemingly less perfect at the first
+sight, although it provides a more optimal integration with the organism in the long run.
+Likewise, since it is known that most cells prefer stiff surfaces to grow on,140,141 one may
+be allured to seed them on plastics, stiffer than glass; under those conditions, however, they
+would often tend to adhere intensely indeed, but only owing to pathological disruption of the
+spindle morphology, which interferes with the cell replication cycles and metabolic
+pathways and suppresses the natural cell response to stimuli. How to be imperfectly perfect
+is one of the vital questions that the mindsets and methods of materials scientists need to
+embrace in their search for ever greater bridging of the gaps that separate them from the life
+science coast of knowledge.
+
+INCREASING EXPERIMENTATION SENSITIVITY
+
+As we continue to chart the nano realm, the windows within which the optimal conditions
+for fabrication of nanostructures with desired properties are found will become narrower and
+narrower, resulting in ever greater bodies of irreproducible results and, therefore, a greater
+level of frustration among the experimentalists, including, quite possibly, an exacerbation of
+the trend toward culling and filtering of experimental data that already assumes epidemic
+proportions.142 My earlier works contained more in-breadth discourses on the limits in
+precision with which we will be able to control physical processes as we keep on proceeding
+along the line of the constant increase in the fineness of scientific manipulation of material
+structures.143 Imperfectly repeatable synthesis protocols, producing large variations of the
+resulting material properties, will be particularly critical for products which cannot be tested
+and potentially discarded prior to application, as is the case with drug delivery implants or
+other therapeutic nanodevices. On the characterization side, one of the first signs that critical
+limits in our capacity to control the physical processes on the ultrafine scale have been
+reached will have come from an inability to decouple the effects of the measurement
+systems on the qualities of the measured systems from their qualities per se. For example,
+during a recent ultrastructural characterization of graphene, it was impossible to tell whether
+the detected moving of a line of point defects was naturally occurring or it was due to the
+conversion of the electron beam energy to the thermal lattice movement.144 Similarly,
+widely dispersed, irregular and flat PbS nanoparticles—relatively robust to start with—were
+seen transforming to uniform spherical particles after 11 min of residing under the TEM
+beam,145 yielding a dramatic example of the fact well known from the basic tenet of the
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 17
+
+theory of measurements: both the observer and the observed are involved in defining the
+observed system’s qualities.
+
+On the synthesis side, the first crucial signs of reaching these limits will be associated with
+persistently and pervasively irreproducible experimental outcomes. This could be compared
+to magnifying any imaginable signal up to the level when we start discerning merely
+fluctuations describable as white noise. Yet, an incessant challenge is to establish methods to
+convert this apparent randomness into more sophisticated signals. Dynamic light scattering
+methods for probing the diffusion and size properties of colloidal systems were, for
+example, designed to extract meaningful information from the seemingly random, Brownian
+motion, reminding us that everything that appears random could be actually seen as ordered
+and governed by certain laws when understood on a sufficiently small scale. Whether we
+have the effect of air bubbles in water146 (which have been invoked as the reason why
+attempts to confirm one such simple yet fundamental phenomenon such as Mpemba effect,
+depicted in Figure 18, have failed147), seasonal atmospheric variations, stirring rates148–150
+or the Earth’s magnetic field,151,152 these minor effects will be increasingly paid attention
+to. The reaction volume is, for example, now already established as a crucial parameter of a
+synthesis procedure. Many attempts to scale-up a preparation procedure for its transfer from
+the lab bench to industry have failed exactly owing to the sensitivity of the given process to
+the reaction vessel size and oftentimes geometry and chemical composition of its walls as
+well.153,154 Overly tall reaction volumes, for example, increased the probability of
+precipitation of aragonite or vaterite—the two of the less stable CaCO3 phases—from a
+solution in the presence of an organic matrix, while flattened volumes were more prone to
+yield calcite, the most thermodynamically stable and the least soluble of CaCO3 phases.155
+Recently it was demonstrated that osteoblasts cultured in star-shaped microwells
+differentiated to a significantly higher degree compared to the cells cultured in the
+microwells of pentagonal or square geometries,156 while the mechanoreciprocity principle
+dictates that there is a direct correspondence between the mechanical cues of the
+environment and cytoskeletal forces on which many signaling pathways within the cell and
+its phenotype crucially depend.157 Not a single reaction system is, after all, perfectly isolated
+from its environment and quite often it is the interface between the system and its
+environment (that is, a reaction and its container) that presents a crucial factor that drives the
+reaction towards its desired outcome. The only place where a liquid reaction system could
+exist virtually free from an interface with a physical environment would be in vacuum, the
+conditions under which the liquid would, however, swiftly evaporate.
+
+One example of the effect of reaction volume comes from the recently proposed
+evolutionary tree of the morphology of gold nanorods prepared by hydrolysis of HAuCl4 in
+the presence of CTAB at mild to highly acidic pHs.158 It was found out that shifting only the
+reaction volume from 0.9 to 45 ml changed the size and aspect ratio of gold nanoparticles by
+more than a single order of magnitude. Reaction systems that are subject to heating tend to
+be particularly sensitive to variations in volume, due to gradations in the heat flux. The
+purity of common reaction systems also presents a critical parameter of synthesis; as shown
+in Figure 19, introducing seemingly negligible amounts of impurities sometimes results in
+drastic changes in morphology and other properties of the material. Typical distilled water,
+the epitome of purity in the lab, contains a few solutes at c > 0.01 mM (a few ppm), a few
+dozens of solutes at c > 1 nM, and hundreds of solutes at c > 10 pM,159 alongside dissolved
+air and other gases (circa 5 mM) collected during aging under atmospheric conditions. These
+gaseous impurities are expected to exert critical influences on reaction pathways, as many
+reactions are now known to be catalyzed by the dissolved gas,160 as well as that its presence
+can be comparable to defects in a solid body.161 Furthermore, from the particle growth
+kinetics standpoint, a tradeoff naturally exists: the slower the process, the greater the level of
+the control of fabricated properties, but at the same time the greater the chance that the
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 18
+
+internal or external impurities will be introduced that will drive the reaction in an undesired
+direction and prevent its repeatability. In general, as the fineness of the chemical reactions
+and physicochemical processes increases and as windows of conditions that lead to desirable
+products are narrowed, impurities previously disregarded will have to be taken into account.
+The effects of impurities in as minor concentrations as in the aforementioned picomolar
+range will thus prove as increasingly important in attaining ideals of sophisticated sensitivity
+and precise localizations of ultrafine physicochemical processes.
+
+Then, as biomolecules will become increasingly utilized in fabrication of ultrafine
+structures, sensitivity of their folding and assembly into proper configurations will introduce
+uncontrollable energy landscapes into the game. For example, single post-translational
+modifications can drastically change the protein functionality,162 while recombinant proteins
+may occasionally exhibit completely different properties compared to their native
+counterparts despite having identical primary structures, which is often caused by different
+folding.163 Elimination of a disulfide bond in dodecapeptides isolated by phage or cell
+surface display systems has thus been shown to induce a 3-fold increase in the size of
+calcium phosphate particles precipitated in the presence of these peptides.164 Many of these
+effects have been so regularly neglected in the lab practice that questioning them, even
+though it is well justified from the point of view of experimental rigorousness, might be seen
+as malevolent interference with the bench work. One example comes from the insufficiently
+investigated effects of fluorescent tags. Cells have been, for example, shown to react
+significantly differently when a fluorescent molecule such as FITC, used merely to visualize
+it in immunohistochemical analyses, is tagged onto the analyzed macromolecule or particle
+in question.165 The effects of the cell circadian rhythm on nanoparticle-cell interactions are
+also still largely unexplored, even though it is known that the expression of almost 50% of
+genes in certain cell types shows variations depending on it.166 Another example may come
+from the often ignored effect buffers exert on the reactions run in their presence. That
+buffers can drastically affect the experimental outcomes can be illustrated by precipitation
+reactions whose products were modified with respect to phase composition or polymorphic
+identity depending on the nature of the buffer. For example, whether organic Tris or
+inorganic phosphates are used as buffers can lead to precipitation of thoroughly different
+calcium phosphate phases.167 This is partly a consequence of the ability of Tris and
+particularly Bis-Tris to sequester free calcium ions from the solution and form metallo-
+organic complexes, the effect that was both theoretically predicted168 and experimentally
+confirmed.169 Whether one precipitates calcium phosphates from simulated body fluid,
+normally buffered using Tris/Bis-Tris, or from phosphate buffer saline or a non-buffered
+aqueous solution, can thus have a drastic effect on the nature of the precipitated phase.170
+Also, since Tris has been shown to exhibit a toxic effect in mammalian cell cultures,171–173
+the biological response to solids formed in the presence of Tris can also significantly differ
+from that observed for materials precipitated in the presence of a different buffer.
+
+That seemingly minor changes in atmosphere can have a crucial effect on some of the most
+routine phase transformations induced at high annealing temperatures is demonstrated by the
+proposed seasonal variation in humidity as a factor that obstructed the degradation of
+hydroxyapatite upon heating and limited the reproducibility of its calcinations.174 Then,
+although routine errors of pH measurements typically prevent experimentalists to report
+values precise to the second decimal digit, pH variations on exactly the second decimal digit
+during a preparation of zinc oxide led to significant changes in the morphology and
+photoluminescent spectra of the particles.175 Thus we arrive once more at the crucial
+challenge in attempts to further our ability to control physicochemical transformations at the
+nanoscale: when will the limits in experimental sensitivity be reached and what will we do
+then?
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 19
+
+CRISSCROSSING THEORY AND EXPERIMENTS
+
+Most materials scientists would readily describe their expertise as falling in the realm of
+either theoretical or experimental knowledge, but not both. Although the term “tunable” has
+been extensively used to describe size-dependent material properties, strictly speaking it
+cannot be associated with the attribute “designable” since the connections between lab
+notebook blueprints and the final experimental outcomes in terms of desirable material
+properties are not readily establishable. Although it has ever since been the dream of
+materials scientists to devise a perfectly precise algorithm that connects synthesis
+parameters, material structure and properties, its function and performance, it is still
+permeated with numerous missing links. For example, although quantum dots do exhibit
+size-dependent optoelectronic properties, Fermi levels of quantum dots can still not be
+designed prior to fabricating them. Only after the material is prepared and characterized for
+its properties, one would go back and mark the experimental conditions that have yielded the
+desired properties as worth reporting or passing on to further stages in the chain of
+technological development (Fig. 20). However, the synthesis method sometimes modifies
+material properties far beyond those predictable from their chemical nature. A tricalcium
+phosphate ceramic obtained in a mechanochemical-hydrothermal process thus paradoxically
+exhibited greater resistance to degradation than hydroxyapatite, demonstrating that the
+synthesis method and the structural features it produces may have a more decisive effect on
+the powder properties than its bare chemical composition.176 That experimental settings can
+counter-intuitively lead to surprising properties has been also evidenced by the case wherein
+the capacity of magnesium to absorb hydrogen doubled upon the addition of 50 wt% of fully
+inert, hydrogen-saturated titanium hydrate to it, owing to the nucleation-promoting effect of
+the latter, showing how sometimes an intentional introduction of impurities or functionless
+components in order to make the material less pure and perfect results in its greater
+reactivity and an intriguing functional upgrade.177 A similar example comes from the field
+of mixed zinc ferrites:178 namely, with the addition of diamagnetic Zn2+ to nickel ferrite
+lattice, comprising magnetic Ni2+ and Fe3+, the magnetic moment of the compound
+increases and reaches a maximum at approximately 1:1 molar ratio of zinc-to-nickel.179 This
+peculiar effect is explained by the ability of Zn2+ ions to replace Fe3+ ions from the
+tetrahedral, A sites of the inverse spinel structure of NiFe2O4 and thus diminish the
+compensation of the superexchange, antifer-romagnetic coupling of the magnetic moments
+of Fe3+ ions positioned on the A sites and Fe3+ and Ni2+ ions resting on the octahedral, B
+sites of the crystal lattice.180
+
+The same observation applies to the field of drug discovery, where despite the extensive
+initial screening steps, the final candidates for a drug undergo randomized, trial-and-error
+studies in vitro, on animals and then on humans, eventually unexplainably failing or living
+up to their promises, or even yielding an unforeseen therapeutic effect. Sildenafil citrate,
+a.k.a. Viagra, which had been designed to be a hypertension-relieving drug, but failed in that
+and was only later associated with the side effects for which it is currently demanded on the
+market, offers a particularly popular example. As pointed out by Arthur Kornberg,
+“Discoveries are commonly serendipitous. The best plan over many decades has been no
+plan.”181 Moreover, the Nobel Laureate went on to claim that “medical research is still more
+a game of pool than billiards; you score points regardless of which pocket the ball goes
+into,” quoting the example of Harold Varmus who received the Nobel Prize in 1989 together
+with Michael Bishop for their studies on breast cancer, despite the fact that “actually,
+Varmus’ studies yielded no insights into human breast cancer, but they did provide an
+important advance in understanding brain development. At the same time, a research
+program headed by Robert Weinberg at MIT, directed toward a rat brain tumor, did make a
+major contribution to understanding human breast cancer. Of the several genes now known
+to be involved in human breast cancer, all but one were discovered by researchers working
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 20
+
+on something other than breast cancer.” For example, after 80% of patients with glaucoma
+had unexpectedly experienced growth and thickening of eyelashes upon applying
+bimatoprost, a drug used to treat glaucoma, the FDA decided to approve the drug as a
+pharmaceutical product for eyelash growth.182 In fact, the discovery of most other chemicals
+in contemporary usage, from cisplatin to Teflon to polio vaccine and penicillin, is owed to
+relentless and serendipitous trial-and-error methodology rather than to well-planned assault
+on particular research targets.183,184
+
+Reinforcing links between the theory and the experiment, in all contexts of nanoscience,
+from particle syntheses to the design of nanoscale drug delivery platforms, would bring us
+closer to the ideal of predicting experimental outcomes with a greater certainty. And with
+our ability to estimate the material properties based on the known experimental settings of
+synthesis, the first chain in the “nano” train depicted in Figure 20 will be made much
+stronger and stable than it is today.
+
+CONJOINING TOP-DOWN AND BOTTOM-UP SYNTHETIC APPROACHES
+
+Many subfields of materials science have traditionally relied on classical, top-down ways of
+synthesizing new materials. During the last decade or so, most of those have, however,
+undergone the trend of adoption of soft and more elegant, colloidal chemistry approaches, as
+opposed to the robust top-down methods.185 However, whereas the former may be said to
+exhibit drawbacks associated with the lack of facileness to process the self-assembled
+systems into technologically functional units, the main downside of the latter is the lack of
+ability to simultaneously organize a multitude of entities in a time- and cost-effective
+manner. Still, by applying these two mainstream synthetic approaches in parallel, so that
+they complement each other’s strengths and weaknesses, there is a chance that more
+superior bases for fabrication of new materials will be established. Top-down controllability
+would play a role in component integration stages, while soft, simple and inexpensive
+methods often replicable on a kitchen stove would render materials science know-how easily
+transferable from hi-tech hot spots to countries at the technological standstill, able to
+scientifically contribute to bridging the gap between rich and poor, on which sustainability
+of the world as we know it pivotally depends.186,187 In an effort to build such synergetic
+instrumentation, the techniques for (a) controlled, lithographic deposition and (b)
+spontaneous growth and assembly have been combined, enabling facile fabrication of
+different nanoscale symmetries via varying the ratio between the deposition flux and the
+diffusion rate.188 An overall impression is thus that the most effective routes for fabrication
+of functional nanostructures in the future will greatly depend on the ability of
+experimentalists to utilize top-down and bottom-up techniques in tandem.189
+
+UNDERSTANDING A VARIETY OF CONTEXTS THAT CO-DEFINE THE
+EXPERIMENTATION OUTCOMES
+
+The boundary that separates the potentials of these two synthetic approaches was summed
+up nicely by the thought of Richard Smalley: “Much like you can’t make a boy and a girl
+fall in love with each other simply by pushing them together, you cannot make precise
+chemistry occur as desired between two molecular objects with simple mechanical motion
+along a few degrees of freedom. Chemistry, like love, is more subtle than that. You need to
+guide the reactants down a particular reaction coordinate, and this coordinate treads through
+a many-dimensional hyperspace… Near the center of the typical chemical reaction, the
+particular atoms that are going to form the new bonds are not the only ones that jiggle
+around: so do all the atoms they are connected to and the ones connected to these in turn. All
+these atoms must move in a precise way to ensure that the result of the reaction is the one
+intended.”190,191 These words shed light on the contextual nature of all chemical
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 21
+
+phenomena, an effect unknowingly utilized by practically any scientist in search for the right
+conditions that would yield a desired product. Examples of this effect that implicitly
+underlies the all-pervading holistic nature of physical phenomena are countless, ranging
+from modifications of functionality of cells autogenically transplanted from one tissue to
+another to oncogenes causing cancer or not depending on whether they are inserted into
+grown animal cells or embryos192 to pancreatic cells able to release insulin only when
+forming islets of specific sizes,193,194 neither too big nor too small.
+
+As an extension of this effect, the hypothesis was outlined stating that each self-assembly
+process is, strictly speaking, a co-assembly since the spontaneous reorganization of a system
+may take place only in parallel with a well coordinated reorganization of its immediate
+environment.195 Such a perspective where qualities of a system are inextricably related to
+the state of its environment has been established in agreement with the previously proposed
+co-creational thesis and its cognitive and epistemological connotations.196,197 The idea of
+co-assembly was supported by studies on reverse micelles198 where it was noticed that these
+molecular aggregates do not act as passive templates for the formation of nanocrystals
+within their cores, but undergo mutual transformations with the nucleating phase.199 Hence,
+different compounds may be synthesized by following the same preparation procedure,
+depending on whether reverse micelles are present in the reaction system or not. They also
+play an active role in catalyzing the transformations between intermediaries which may have
+a crucial effect on the final products of precipitation reactions and other phase transitions
+that take place in their presence.200 Also, as shown in Figure 21(a)–(b), folding of proteins
+in reverse micelles is greatly affected by the space limitation effect, demonstrating the extent
+to which the physical environment affects the structure and, therefore, the function of these
+basic biomolecular units. Figure 21(c)–(d) concordantly show that even the structure of
+water inside of reverse micelles is different from the bulk water and subject to change
+depending on the size of the micelle. Similarly, whoever has designed an experiment to
+assess the controlled release rate of a molecule encapsulated within a nanocarrier must have
+become familiar with how modifications of the parameters that define the environment into
+which the eluted drug molecules will diffuse, including its volume, temperature, agitation
+level, salt content, frequency of replenishment, etc., can be used to tune the release kinetics
+profiles to a desired one. Figure 22(a) correspondingly shows a hypothetic example of an
+identical drug delivery device yielding two kinetically distinct release profiles depending on
+the release measurement methodology applied: zero-order upon daily replacements of a
+comparatively small volume of the solvent and first-order one upon the usage of larger
+solvent volume and no daily replenishments thereof. Namely, whereas the drug is released in
+burst fashion when a sufficient volume of the solvent is provided, limited amounts of the
+solvent place a cap on the maximal amount that could be released before the saturation is
+reached, leaving space for the eventual fabrication of a desired release profile. None of these
+two methods, however, mimic the biological conditions under which fast clearance of the
+released drug is typically observed, nor they account for the effects of the complex interface
+between the device and numerous macromolecules and cells of the host organism on drug
+release. And today we know that although size, shape and elasticity of nanoparticles in
+biological milieus do influence their biodistribution profiles, the route of uptake and the
+mechanism of interaction with the cell are mainly determined by the protein corona
+adsorbed on the particles and the surface propensities that it endows them with.201,202 How
+to devise in vitro drug release testing procedures that would be able to replicate in vivo
+conditions better, typically characterized by (a) a more dynamic flow of fluids; (b) specific
+local pH profiles that are often disease-dependent; and (c) much more complex and selective
+media, is another challenge for the drug delivery field. The natural consequence of this
+stance is that same molecules can exhibit dual and quite often antipodal effects on specific
+physicochemical processes, as epitomized by polypeptides that can, depending on their
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 22
+
+concentration and other experimental conditions, either promote or inhibit growth of crystals
+in interaction with them.203–205
+
+If an important advice lurks underneath this observation too, it is the one urging careless and
+pretentious researchers to think twice before they indulge in irrational and premature
+expansion of the relevance of their findings beyond the scope of experimental conditions
+utilized in the lab. In fact, if the history of science teaches us something, it is that the
+greatest threats for its proper understanding and progress come not from those who
+nondeliberately commit mistakes in their research, but from those who pump up their
+conclusions, derived from a limited set of experimental conditions, well beyond the scopes
+of their validity. There is no doubt that the burst of the nanotechnology bubble in the years
+following the peak in the estimated asset value observed at around 2005, inflated as the
+result of unrealistically proximal prospects of nanoscience portrayed by scientists in hunts
+for funding, can illustrate the extent to which pretentiousness in the scientific domain can
+threaten the projected lines of progress. Hence, as shown in Figure 22(b), while the National
+Science Foundation estimated the global market share of nan-otechnologies in 2009 at $1
+trillion five years earlier, the true value ended up being only $11.7 billion. Nourishing the
+spirit of impartiality and humbleness that naturally springs from the ideals of smallness
+attributed to the field of nanoscience and that has ensued the tradition of empiricism since
+the times of Renaissance will certainly present a vital challenge in the times of increasingly
+entrepreneurial approach to scientific management and thriving collaborations between
+academia and industry.
+
+CONCLUSIONS
+
+“‘It is hard to be brave,’ said Piglet, sniffing slightly, ‘when you’re only a Very
+Small Animal.’ Rabbit, who had begun to write very busily, looked up and said: ‘It
+is because you are a very small animal that you will be Useful in the adventure
+before us.”208
+
+This critical review began with the proposition stating that the interest in physical chemistry
+of nanoscale phenomena is a natural consequence of the spatial refinement of the human
+ability to controllably manipulate the material substratum of our physical reality. It ended
+with humble acceptance of the limited nature of our experimentally derivable knowledge,
+accentuating searching rather than finding as the key to fruitfully performed scientific
+research. In its course, examples were given to illustrate an immense sensitivity of material
+properties to grain size on the nanoscale, a phenomenon that directly contributed to the rise
+of nanoscience as a special field of scientific inquiry. Alongside this thesis, main systemic
+challenges faced by the present and future scientists in this field were outlined. For a while,
+we stood on the constantly expanding seashore of the coast of nanoscience and
+nanoengineering and envisioned the parts of the island where the most significant advances
+may be expected to occur and where most of the attention of scientist in the field is to be
+directed: crossing the gap between life science and materials science; increasing
+experimentation sensitivity; crisscrossing theoretical and experimental knowledge; and
+conjoining top-down and bottom-up synthetic approaches. As for materials and their
+application areas discussed, a special emphasis was placed on calcium phosphate
+nanoparticles and their usage in controlled drug delivery and other applications of
+biomedical relevance. Finally, the rise and prominence of nanoscience is a reminder of the
+necessity to reawaken the humble wonder that has been intrinsic to the advancement of
+scientific thought ever since its inception. For, as suggested by the standard theory of
+measurements and illustrated by the weak interpretation of the uncertainty principle, to
+observe the small details of physical reality and interact with them, we, as observers and
+causal agents, need to be equally small. Hence, Time to Be Small as the maxim derived
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 23
+
+naturally from the herein elaborated idea that the most valuable scientific insights will
+increasingly originate from ever finer details of Nature. Expansion of thoughts that would
+develop this correlation into humanistic, ethical and aesthetical directions, however, presents
+the beginnings of some other, far more interdisciplinary stories than this one.
+
+Acknowledgments
+
+Writing of this review was supported by the National Institute of Health grant K99-DE021416: Osteogenic calcium
+phosphate nanoparticles with designable drug release kinetics.
+
+Biography
+
+Vuk Uskoković, a native of Belgrade, Serbia, is a principal investigator in the Department
+of Bioengineering and Therapeutic Science of University of California, San Francisco. He
+holds a B.Sc. degree in Physical Chemistry, an M.Sc. degree in Materials Science and
+Engineering, and a Ph.D. degree in Nanosciences and Nanotechnologies. He is a former
+research member of Jožef Stefan Institute in Ljubljana where he developed methods for the
+synthesis of magnetic nanoparticles applicable in electrical engineering and biomedicine. At
+the Center for Advanced Materials Processing of Clarkson University, Potsdam, NY, he
+explored the mechanisms of precipitation of compounds implicated in the development of
+atherosclerotic vascular disease. His appointment with the Division of Biomaterials and
+Bioengineering at the Dental School of University of California, San Francisco involved
+research of the biomimetic formation of biomineralized tissues. Currently he devises
+controlled drug delivery platforms using nanotechnologies for a variety of medical and
+pharmaceutical applications. Beside his dedication to scientific research, he has published
+studies from the fields of cognitive science, ecoscience, philosophy, theosophy and social
+science.
+
+REFERENCES
+
+1. Uskoković V. Nanomaterials and nanotechnologies: Approaching the crest of this big wave. Curr.
+
+Nanosci. 2008; 4:119.
+
+2. Chokski AH, Rosen A, Karch J, Gleiter H. On the validity of the Hall-Petch relationship in
+
+nanocrystalline materials. Scripta Metall. 1989; 23:1679.
+
+3. Andrievski, RA. Fundamentals of nanostructured materials: Possibilities and problems. Moscow:
+
+BINOM; 2012.
+
+4. Etheridge ML, Campbell SA, Erdman AG, Haynes CL, Wolf AM, McCullough J. The big picture
+
+on nanomedicine: The state of investigational and approved nanomedicine products. Nanomed.
+Nanotech. Bio. Med. 2013; 9:1.
+
+5. Pande CS, Cooper KP. Nanomechanics of Hall-Petch relationship in nanocrystalline materials.
+
+Progress Mat. Sci. 2009; 54:689.
+
+6. Liang LH, Liu D, Jiang Q. Size-dependent continuous binary solution phase diagram. Nanotech.
+
+2003; 14:438.
+
+7. Lu K, Jin ZH. Melting and superheating of low-dimensional materials. Curr. Op. Solid State Mat.
+
+Sci. 2001; 5:39.
+
+8. Sutter EA, Sutter PW. Size-dependent phase diagram of nanoscale alloy drops used in vapor-liquid-
+
+solid growth of semiconductor nanowires. ACS Nano. 2010; 4:4943. [PubMed: 20731466]
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 24
+
+9. Bose S, Banerjee R, Genc A, Raychaudhuri P, Fraser HL, Ayyub P. Size induced metal insulator
+transition in nanostructured Niobium thin films: Intragranular and intergranular contributions. J.
+Phys.: Condens. Matt. 2006; 18:4553.
+
+10. Tuller HL. Ionic conduction in nanocrystalline materials. Solid State Ionics. 2000; 131:143.
+11. Tschöpe A, Sommer E, Biringer R. Grain size-dependent electrical conductivity of polycrystalline
+
+cerium oxide I: Experiments. Solid State Ionics. 2001; 139:255.
+
+12. Guo X, Zhang X. Grain size dependent grain boundary defect structure: Case of doped Zirconia.
+
+Acta Mater. 2003; 51:2539.
+
+13. Demetry C, Shi X. Grain size-dependent electrical properties of Rutile (TiO2). Solid State Ionics.
+
+1999; 118:271.
+
+14. de R, Rica la, Stevens MM. Plasmonic ELISA for the ultrasensitive detection of disease
+
+biomarkers with the Naked eye. Nature Nanotech. 2012; 7:821.
+
+15. Mitsakakis K, Sekula-Neuner S, Lenhert S, Fuchs H, Gizeli E. Convergence of dip-pen
+
+nanolithography and acoustic biosensors towards a rapid-analysis multi-sample microsystem.
+Analyst. 2012; 137:3076. [PubMed: 22627738]
+
+16. Uskoković V, Drofenik M. Synthesis of Lanthanum-strontium manganites by oxalate-precursor co-
+
+precipitation methods in solution and in reverse micellar microemulsion. J. Magn. Magn. Mater.
+2006; 303:214.
+
+17. Bohra M, Prasad S, Kumar N, Misra DS, Sahoo SC, Venkataramani N, Krishnan R. Large room
+
+temperature magnetization in nanocrystalline zinc ferrite thin films. Appl. Phys. Lett. 2006;
+88:262506.
+
+18. Yamazoe N. New approaches for improving semiconductor gas sensors. Sensors Actuators B:
+
+Chem. 1991; 5:7.
+
+19. Gurlo A, Ivanovskaya M, Bârsan N, Schweizer-Berberich M, Weimar U, Göpel W, Diéguez A.
+
+Grain size control in nanocrystalline In2O3 semiconductor gas sensors. Sensors Actuators B:
+Chem. 1997; 44:327.
+
+20. 2012. Retrieved from http://www.discovernano.northwestern.edu/whatis/index_html/
+
+sizematters_html
+
+21. Kipling, R. Trafalgar Square. London, UK: 1891. The english flag, Rudyard Kipling: The
+
+Complete Verse.
+
+22. Uskoković V, Matijević E. Uniform particles of pure and silica coated Cholesterol. J. Coll.
+
+Interface Sci. 2007; 315:500.
+
+23. Uskoković V, Kim M-K, Li W, Habelitz S. Enzymatic processing of amelogenin during
+continuous crystallization of apatite. J. Mater. Res. 2008; 32:3184. [PubMed: 19177182]
+
+24. Uskoković V, Drofenik M. Four novel co-precipitation procedures for the synthesis of Lanthanum-
+
+Strontium manganites. Mater. Des. 2007; 28:667.
+
+25. Dai H, Choe WS, Thai CK, Sarikaya M, Traxler BA, Baneyx F, Schwartz D. Nonequilibrium
+synthesis and assembly of hybrid inorganic-protein nanostructures using an engineered DNA
+binding protein. J Am. Chem. Soc. 2005; 127:15637. [PubMed: 16262431]
+
+26. Ahmad G, Dickerson MB, Church BC, Cai Y, Jones SE, Naik RR, King JS, Summers CJ, Kröger
+N, Sand-hage Rapid KH. room-temperature formation of crystalline calcium molybdate phosphor
+microparticles via peptide-induced precipitation. Adv. Mater. 2006; 18:1759.
+
+27. Dickerson MB, Naik RN, Stone MO, Cai Y, Sandhage KH. Identification of peptides that promote
+
+the rapid precipitation of germania nanoparticle networks via use of a peptide display library.
+Chem. Commun. (Camb.). 2004; 15:1776. [PubMed: 15278181]
+
+28. Karlsson HL, Gustafsson J, Cronholm P, Moller L. Size-dependent toxicity of metal oxide particles
+
+—A comparison between nano- and micrometer size. Toxicol. Lett. 2009; 188:112. [PubMed:
+19446243]
+
+29. Uskoković V. Nanotechnologies: What we do not know. Techn. Soc. 2007; 29:43.
+30. Service RF. Nanomaterials show signs of toxicity. Science. 2003; 300:243. [PubMed: 12690169]
+31. Limbach LK, Li Y, Grass RN, Brunner TJ, Hintermann MA, Muller M, Gunther D, Stark WJ.
+
+Oxide nanoparticles uptake in human lung fibroblasts: Effects of particle size, agglomeration, and
+diffusion at low concentrations. Environ. Sci. Techn. 2005; 39:9370.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 25
+
+32. Devadasu VR, Bhardwaj V, Kumar MNVR. Can controversial nanotechnology promise drug
+
+delivery. Chem. Rev. 2013 in press.
+
+33. Chithrani BD, Ghazani AA, Chan WCW. Determining the size and shape dependence of gold
+
+nanoparticle uptake into mammalian cells. Nano Lett. 2006; 6:662. [PubMed: 16608261]
+
+34. Canton I, Battaglia G. Endocytosis at the nanoscale. Chem. Soc. Rev. 2012; 41:2718. [PubMed:
+
+22389111]
+
+35. Zhao F, Zhao Y, Liu Y, Chang C, Chen C, Zhao Y. Cellular uptake, intracellular trafficking, and
+
+cytotoxicity of nanomaterials. Small. 2011; 7:1322. [PubMed: 21520409]
+
+36. Win KY, Feng S-S. Effects of particle size and surface coating on cellular uptake of polymeric
+
+nanoparticles for oral delivery of anticancer drugs. Biomaterials. 2005; 26:2713. [PubMed:
+15585275]
+
+37. Georgantzopoulou A, Balachandran YL, Rosenkranz P, Dusinska M, Lankoff A, Wojewodzka M,
+
+Kruszewski M, Guignard C, Audinot JN, Girija S, Hoffmann L, Gutleb AC. Ag nanoparticles:
+size- and surface-dependent effects on model aquatic organisms and uptake evaluation with
+NanoSIMS. Nanotoxicol. 2013 in press, PMID: 22834480.
+
+38. Uskoković V. Of sustainability elephants and prefab sprouts. Int. J. Sustain. Soc. 2008; 1:85.
+39. Zhao J, Castranova V. Toxicology of nanomaterials used in nanomedicine. J. Toxicol. Environ.
+
+Health. B Crit. Rev. 2011; 14:593. [PubMed: 22008094]
+
+40. Uskoković V, Lee PP, Walsh L, Fischer KE, Desai TA. Silicon nanowire coated microparticles as
+
+epithelial drug delivery devices. The effect of PEGylation on particle-epithelium interactions.
+Biomater. 2012; 33:1663.
+
+41. Nefzger M, Kreuter J, Voges R, Liehl E, Czok R. Distribution and elimination of polymethyl
+methacrylate nanoparticles after peroral administration to rats. J. Pharm. Sci. 1984; 73:1309.
+[PubMed: 6491960]
+
+42. Reddy ST, Swartz MA, Hubbell JA. Targeting dendritic cells with biomaterials: Developing the
+
+next generation of vaccines. Trends Immunol. 2006; 27:573. [PubMed: 17049307]
+
+43. Slütter B, Bal SM, Que I, Kaijzel E, Löwik C, Bouwstra J, Jiskoot W. Antigen-adjuvant
+
+nanoconjugates for nasal vaccination: An improvement over the use of nanoparticles? Mol. Pharm.
+2010; 7:2207. [PubMed: 21043518]
+
+44. Uskoković V. Surface charge effects involved in the control of stability of sols comprising uniform
+
+Cholesterol particles. Mater. Manufact Proces. 2008; 23:620.
+
+45. Uskoković V. Theoretical and practical aspects of colloid science and self-assembly phenomena
+
+revisited. Rev. Chem. Eng. 2007; 23:301.
+
+46. Uskoković V, Drofenik M. Synthesis of nanocrystalline Nickel-Zinc ferrites within reverse
+
+micelles. Mater. Tech. 2003; 37:129.
+
+47. Pileni MP. Supra- and nanocrystallinities: A new scientific adventure. J. Phys. Condens. Matter.
+
+2011; 23:503102. [PubMed: 22121205]
+
+48. Ma H, Hao J. Ordered patterns structures via interfa-cial self-assembly: Superlattices, honeycomb
+
+structures and coffee rings. Chem. Soc. Rev. 2011; 40:5457. [PubMed: 21792458]
+
+49. Vanmaekelbergh D. Self-assembly of colloidal nanocrystals as route to novel classes of
+
+nanostructured materials. Nano Today. 2011; 6:419.
+
+50. Uskoković V, Desai TA. Phase composition control of calcium phosphate nanoparticles for tunable
+
+drug delivery kinetics and treatment of osteomyelitis. Part 1: Preparation and drug release. J.
+Biomed. Mater. Res. A. 2013 in press.
+
+51. Muller RH, Keck CM. Challenges and solutions for the delivery of biotech drugs-A review of drug
+
+nanocrystal technology and lipid nanoparticles. J. Biotech. 2004; 112:151.
+
+52. Mout R, Moyano DF, Rana S, Rotello VM. Surface func-tionalization of nanoparticles for
+
+nanomedicine. Chem. Soc. Rev. 2012; 41:2539. [PubMed: 22310807]
+
+53. Fahr A, Liu X. Drug delivery strategies for poorly water-soluble drugs. Expert Opin. Drug Deliv.
+
+2007; 4:403. [PubMed: 17683253]
+
+54. Uskoković, V. Nova Science. Hauppauge, NY: 2009. Trends in Practical Colloid Science.
+55. Carstensen, JT. Solubility, Advanced Pharmaceutical Solids. Carstensen, JT., editor. New York:
+
+Marcel Dekker; 2001. p. 27-50.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 26
+
+56. Wong J, Brugger A, Khare A, Chaubal M, Papadopoulos P, Rabinow B, Kipp J, Ning J.
+
+Suspensions for intravenous (IV) injection: A review of development, preclinical and clinical
+aspects. Adv. Drug Deliv. Rev. 2008; 60:939. [PubMed: 18343527]
+
+57. Singh N, Manshian B, Jenkins GJS, Griffiths SM, Williams PM, Maffeis TGG, Wright CJ, Doak
+SH. NanoGenotoxicology: The DNA damaging potential of engineered nanomaterials. Biomater.
+2009; 30:3891.
+
+58. Albanese A, Chan WC. Effect of gold nanoparticle aggregation on cell uptake and toxicity. ACS
+
+Nano. 2011; 5:5478. [PubMed: 21692495]
+
+59. Nam J, Won N, Jin H, Chung H, Kim S. pH-induced aggregation of gold nanoparticles for
+photothermal cancer therapy. J. Am. Chem. Soc. 2009; 131:13639. [PubMed: 19772360]
+
+60. Kneipp J, Kneipp H, McLaughlin M, Brown D, Kneipp K. In vivo molecular probing of cellular
+compartments with gold nanoparticles and nanoaggregates. Nano Lett. 2006; 6:2225. [PubMed:
+17034088]
+
+61. Koh AL, Shachaf CM, Elchuri S, Nolan GP, Sinclair R. Electron microscopy localization and
+
+characterization of functional-ized composite organic-inorganic SERS nanoparticles on leukemia
+cells. Ultramicroscopy. 2008; 109:111. [PubMed: 18995965]
+
+62. Jiang X, Röcker C, Hafner M, Brandholt S, Dörlich RM, Nienhaus GU. Endo- and exocytosis of
+zwitterionic quantum dot nanoparticles by live HeLa cells. ACS Nano. 2010; 4:6787. [PubMed:
+21028844]
+
+63. Cebrian V, Martin-Saavedra F, Yague C, Arruebo M, Santamaria J, Vilaboa N. Size-dependent
+
+transfection efficiency of PEI-coated gold nanoparticles. Acta Biomater. 2011; 7:3645. [PubMed:
+21704738]
+
+64. Uskoković V, Košak A, Drofenik M. Silica-coated Lanthanum-Strontium manganites for
+
+hyperthermia treatments. Mater. Lett. 2006; 60:2620.
+
+65. Talelli M, Rijcken CJ, Lammers T, Seevinck PR, Storm G, van Nostrum CF, Hennink WE.
+Superparamagnetic iron oxide nanoparticles encapsulated in biodegradable thermosensitive
+polymeric micelles: Toward a targeted nanomedicine suitable for image-guided drug delivery.
+Langmuir. 2009; 25:2060. [PubMed: 19166276]
+
+66. Nutan, MTH.; Reddy, IK. General Principles of Suspensions. In: Kulshrestha, AK.; Singh, ON.;
+
+Wall, GM., editors. Pharmaceutical Suspensions: From Formulation Development to
+Manufacturing. New York: Springer; 2009. p. 39-66.
+
+67. Patravale VB, Date AA, Kulkarni RM. Nanosuspensions as a promising drug delivery strategy. J.
+
+Pharmaceut. Pharmacol. 2004; 56:827.
+
+68. Uskoković V. Dynamic light scattering and microelectrophore-sis: Main prospects and limitations.
+
+J. Disp. Sci. Techn. 2012; 33:1762.
+
+69. Wu L, Zhang J, Watanabe W. physical and chemical stability of drug nanoparticles. Adv. Drug
+
+Deliv. Rev. 2011; 63:456. [PubMed: 21315781]
+
+70. Zhao Y, Sun X, Zhang G, Trewyn BG, Slowing II, Lin VS. Interaction of mesoporous silica
+
+nanoparticles with human red blood cell membranes: Size and surface effects. ACS Nano. 2011;
+5:1366. [PubMed: 21294526]
+
+71. Oh WK, Kim S, Choi M, Kim C, Jeong YS, Cho BR, Hahn JS, Jang J, Cellular uptake
+
+cytotoxicity. and innate immune response of silica-titania hollow nanoparticles based on size and
+surface functionality. ACS Nano. 2010; 4:5301. [PubMed: 20698555]
+
+72. Caldorera-Moore M, Guimard N, Shi L, Roy K. Designer nanoparticles: Incorporating size shape
+
+and triggered release into nanoscale drug carriers. Expert Opin. Drug Deliv. 2010; 7:479.
+[PubMed: 20331355]
+
+73. Park J, Bauer S, van der Mark K, Schmuki P. Nanosize and vitality:? TiO2 nanotube diameter
+
+directs cell fate. Nano Lett. 2007; 7:1686. [PubMed: 17503870]
+
+74. Brammer KS, Oh S, Cobb CJ, Bjursten LM, van der Heyde H, Jin S. Improved bone-forming
+
+functionality on diameter-controlled TiO2 nanotube surface. Acta Biomater. 2009; 5:3215.
+[PubMed: 19447210]
+
+75. Salgado CL, Oliveera MB, Mano JF. Combinatorial cell-3D biomaterials cytocompatibility
+screening for tissue engineering using bioinspired superhydrophobic substrates. Integr. Biol.
+(Camb.). 2012; 4:318. [PubMed: 22301669]
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 27
+
+76. Suresh AK, Pelletier DA, Wang W, Morrell-Falvey JL, Gu B, Doktycz MJ. Cytotoxicity induced
+by engineered silver nanocrystallites is dependent on surface coatings and cell types. Langmuir.
+2012; 28:2727. [PubMed: 22216981]
+
+77. Ignjatović N, Ajduković Z, Savić V, Najman S, Mihailović D, Vasiljević P, Stojanović Z,
+
+Uskoković V, Uskoković D. Nanoparticles of cobalt-substituted hydroxyapatite in regeneration of
+mandibular osteoporotic bones. J. Mater. Sci. Mater. Med. in press.
+
+78. Hirn S, Semmler-Behnke M, Schleh C, Wenk A, Lipka J, Schäffler M, Takenaka S, Möller W,
+
+Schmid G, Simon U, Kreyling WG. Particle size-dependent and surface charge-dependent
+biodistribution of gold nanoparticles after intravenous administration. Eur. J. Pharm. Biopharm.
+2011; 77:407. [PubMed: 21195759]
+
+79. Lukić MJ, Stojanović Z, Škapin SD, Macek-Kržmanc M, Mitric M, Marković S, Uskoković D.
+
+Dense fine-grained biphasic calcium phosphate (BCP) bioceramics designed by two-step sintering.
+J. Eur. Ceram. Soc. 2011; 31:19.
+
+80. Lukić MJ, Škapin SD, Markovic´ S, Uskokovic´ D. Processing route to fully dense nanostructured
+
+HAp Bioceramics: From powder synthesis to sintering. J. Am. Ceram. Soc. 2012; 95:3394.
+
+81. Wang X-H, Deng X-Y, Bai H-L, Zhou H, Qu W-G, Li L-T. Two-step sintering of ceramics with
+
+constant grain-size II: BaTiO3 and Ni-Cu-Zn ferrite. J. Am. Ceram. Soc. 2006; 89:438.
+
+82. Chen I-W, Wang X-H. Sintering dense nanocrystalline ceramics without final-stage grain growth.
+
+Nature. 2000; 404:168. [PubMed: 10724165]
+
+83. Hasegawa M, Sudo A, Komlev VS, Barinov SM, Uchida A. High release of antibiotic from a novel
+
+hydroxyapatite with bimodal pore size distribution. J. Biomed. Mater. Res. B Appl. Biomater.
+2004; 70:332. [PubMed: 15264316]
+
+84. Xia Y, Nguyen TD, Yang M, Lee B, Santos A, Podsiadlo P, Tang Z, Glotzer SC, Kotov NA. Self-
+
+assembly of self-limiting monodisperse supraparticles from polydisperse nanoparti-cles. Nature
+Nanotech. 2011; 6:580.
+
+85. Dalby MJ, Gadegaard N, Tare R, Andar A, Riehle MO, Herzyk P, Wilkinson CDW, Oreffo ROC.
+
+The control of human mesenchymal cell differentiation using nanoscale symmetry and disorder.
+Nature Mater. 2007; 6:997. [PubMed: 17891143]
+
+86. Sosnowski S, Woźniak P, Lewandowska-Szumiel M. Polyester scaffolds with bimodal pore size
+
+distribution for tissue engineering. Macromol. Biosci. 2006; 6:425. [PubMed: 16761274]
+
+87. Uskoković V, Lee K, Lee PP, Fischer KE, Desai TA. Shape effect in the design of nanowire-
+
+coated microparticles as epithelial drug delivery devices. ACS Nano. 2012; 6:7832. [PubMed:
+22900471]
+
+88. van, de; Ven, AL.; Kim, P.; Haley, O.; Fakhoury, JR.; Adriani, G.; Schmulen, J.; Moloney, P.;
+
+Hussain, F.; Ferrari, M.; Liu, X.; Yun, SH.; Decuzzi, P. Rapid tumoritropic accumulation of
+system-ically injected plateloid particles and their biodistribution. J. Control. Release. 2012;
+58:148.
+
+89. Champion JA, Katare YK, Mitragotri S. Particle shape: A new design parameter for micro- and
+
+nanoscale drug delivery carriers. J. Control. Release. 2007; 121:3. [PubMed: 17544538]
+90. Fischer KE, Nagaraj G, Daniels RH, Li E, Cowles VE, Miller JL, Bunger MD, Desai T.
+Hierarchical nanoengineered surfaces for enchanced CytoAdhesion and drug delivery.
+Biomaterials. 2011; 32:3499. [PubMed: 21296409]
+
+91. Fischer KE, Jayagopal A, Nagaraj G G, Daniels R, Li E, Silvestrini M, Desai T. Nanoengineered
+
+surfaces enhance drug loading and adhesion. Nano Lett. 2011; 11:1076. [PubMed: 21280638]
+92. Hu X, Gao X. Multilayer coating of gold nanorods for combined stability and biocompatibility.
+
+Phys. Chem. Chem. Phys. 2011; 13:10028. [PubMed: 21387063]
+
+93. Gratton SEA, Ropp PA, Pohlhaus PD, Luft JC, Madden VJ, Napier ME, DeSimone JM. The effect
+
+of particle design on cellular internalization pathways. Proc. Natl. Acad. Sci. USA. 2008;
+105:11613. [PubMed: 18697944]
+
+94. van der Niet MJTC, den Dunnen A, Koper MTM, Juurlink LBF. Tuning hydrophobicity of
+
+platinum by small changes in surface morphology. Phys. Rev. Lett. 2011; 107:146103. [PubMed:
+22107216]
+
+95. Checco A, Hoffmann T, DiMasi E, Black CT, Ocko BM. Morphology of air nanobubbles trapped
+
+at hydrophobic nanopat-terned surfaces. Nano Lett. 2010; 10:1354. [PubMed: 20180525]
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 28
+
+96. Uskoković V. Insights into morphological nature of precipitation of cholesterol. Steroids. 2008;
+
+73:356. [PubMed: 18215404]
+
+97. Sera Y, Kang KY. Asbestos and cancer in the Sennan district of Osaka. Tohoku J. Exp Med. 1981;
+
+133:313. [PubMed: 7314084]
+
+98. Okada S, Ito H, Nagai A, Komotori J, Imai H. Adhesion of osteoblast-like cells on nanostructured
+
+hydroxyapatite. Acta Biomater. 2010; 6:591. [PubMed: 19654058]
+
+99. Safi M, Yan M, Guedeau-Boudeville MA, Conjeaud H, Garnier-Thibaud V, Boggetto N, Baeza-
+Squiban A, Niedergang F, Averbeck D, Berret JF. Interactions between magnetic nanowires and
+living cells: Uptake, toxicity, and degradation. ACS Nano. 2011; 5:5354. [PubMed: 21699198]
+
+100. Uskoković V, Desai TA. Phase composition control of calcium phosphate nanoparticles for
+
+tunable drug delivery kinetics and treatment of osteomyelitis. Part 2: Antibacterial and
+osteoblastic response. J. Biomed. Mater. Res. A. 2013; 24:343.
+
+101. Gower LB. Biomimetic model systems for investigating the amorphous precursor pathway and its
+
+role in biomineralization. Chem. Rev. 2008; 108:4551. [PubMed: 19006398]
+
+102. Lu Z, Tsai M, Lu D, Wang J, Wientjes MG, Au JL. Tumor-penetrating microparticles for
+
+intraperitoneal therapy of ovarian cancer. J. Pharmacol. Exp. Ther. 2008; 327:673. [PubMed:
+18780831]
+
+103. Lim E, Huh Y, Yang J, Lee K, Suh J, Haam S. pH-triggered drug-releasing magnetic
+
+nanoparticles for cancer therapy guided by molecular imaging by MRI. Adv. Mater. 2011;
+23:2436. [PubMed: 21491515]
+
+104. He L, Zuo Q, Xie S, Huang Y, Xue W. Intelligent hydrogels for drug delivery system. Recent Pat.
+
+Drug Deliv. Formul. 2011; 5:265. [PubMed: 21834779]
+
+105. Liu T, Liu K, Liu D, Chen S, Chen I. Temperature-sensitive nanocapsules for controlled drug
+
+release caused by magnetically triggered structural disruption. Adv. Function. Mater. 2009;
+19:616.
+
+106. Kojima C. Design of stimuli-responsive dendrimers. Expert Opin. Drug Deliv. 2010; 7:307.
+
+[PubMed: 20095875]
+
+107. Tinkov S, Bekeredjian R, Winter G, Coester C. Microbubbles as ultrasound triggered drug
+
+carriers of pharmaceutical. Science. 2009; 98:1935.
+
+108. Volodkin DV, Madaboosi N, Blacklock J, Skirtach AG, Mohwald H. Surface-supported
+
+multilayers decorated with bio-active materials aimed at light-triggered drug delivery. Langmuir.
+2009; 25:14037. [PubMed: 19670892]
+
+109. Wells LA, Lasowski F, Fitzpatrick SD, Sheardown H. Responding to change: Thermo- and
+photo-responsive polymers as unique biomaterials. Crit. Rev. Biomed. Eng. 2010; 38:487.
+[PubMed: 21303321]
+
+110. Sokolova V, Radtke I, Heumann R, Epple M. Effective trans-fection of cells with multi-shell
+
+calcium phosphate-DNA nanopar-ticles. Biomater. 2006; 27:3147.
+
+111. Uskoković V. Co-creation of experiential qualities. Pragmat. Cogn. 2011; 19:562.
+112. Aarts, HJM.; Guerra, B.; Malorny, B. Molecular methods for detection of antibiotic resistance. In:
+Aarestrup, FM., editor. Antimicrobial Resistance in Bacteria of Animal Origin. Washington, DC:
+American Society for Microbiology Press; 2006. p. 55
+
+113. Weigelt B, Bissell MJ. Unraveling the microenvironmental influences on the normal mammary
+
+gland and breast cancer. Semin. Cancer Biol. 2008; 18:311. [PubMed: 18455428]
+
+114. Popp JR, Laflin KE, Love BJ, Goldstein AS. In vitro evaluation of osteoblastic differentiation on
+
+amorphous calcium phosphate-decorated poly(lactic-co-glycolic acid) scaffolds. J. Tissue Eng.
+Regen. Med. 2011; 5:780. [PubMed: 22002921]
+
+115. Both SK, Yuan H, van Blitterswijk CA, de Boer J. Positive effect of calcium phosphate ceramics
+
+on osteogenic differentiation of embryonic stem cells by influencing the culture medium
+composition. Acta Biomater. 2012 under review.
+
+116. Wang C, Duan Y, Marković B, Barbara J, Howlett CR, Zhang X, Zreigat H. Phenotypic
+
+expression of bone-related genes in osteoblasts grown on calcium phosphate ceramics with
+different phase compositions. Biomater. 2004; 25:2507.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 29
+
+117. Yuan H, Fernands H, Habibovic P, de Boer J, Barradas AMC, de Ruiter A, Walsh WR, van
+
+Blitterswijk CA, de Bruijn JD. Osteoinductive ceramics as a synthetic alternative to autol-ogous
+bone grafting. PNAS. 2010; 107:13614. [PubMed: 20643969]
+
+118. Ripamonti, U. Smart biomaterials with intrinsic osteoinductivity: Geometric control of bone
+
+differentiation. In: Davies, JE., editor. Bone Engineering. Toronto: EM2 Corporation; 2000. p.
+215-222.
+
+119. Ripamonti U, Crooks J, Kirkbride AN. Sintered porous hydroxyapatites with intrinsic
+
+osteoinductive activity: Geometric induction of bone formation. S. Afr. J. Sci. 1999; 95:335.
+
+120. Uskoković V. Prospects and pits on the path of biomimetics: The case of tooth enamel. J.
+
+Biomim. Biomater. Tissue Eng. 2010; 8:45.
+
+121. Quintilliani R. Pharmacokinetics/pharmacodynamics for critical care clinicians. Crit. Care Clin.
+
+2008; 24:335. [PubMed: 18361949]
+
+122. Ellis SL, Grassinger J, Jones A, Borg J, Camenisch T, Haylock D, Bertoncello I, Nilsson SK. The
+
+relationship between bone, hemopoietic stem cells, and vasculature. Blood. 2011; 118:1516.
+[PubMed: 21673348]
+
+123. Uskoković V, Košak A, Drofenik M, Preparation of silica-coated Lanthanum-Strontium
+
+manganite particles with designable curie point. for application in hyperthermia treatments. Int. J.
+Appl. Ceram. Tech. 2006; 3:134.
+
+124. Williams, DF. The Williams Dictionary of Biomaterials. Liverpool: Liverpool University Press;
+
+1999.
+
+125. Ahmed A, Bonner C, Desai TA. Bioadhesive microdevices with multiple reservoirs: A new
+
+platform for oral drug delivery. J. Control. Release. 2002; 81:291. [PubMed: 12044568]
+
+126. Tao SL, Desai TA. Microfabricated drug delivery systems: From particles to pores. Adv. Drug
+
+Deliv. Rev. 2003; 55:315. [PubMed: 12628319]
+
+127. Vukomanović M, Šarcev I, Petronijević B, Škapin SD, Ignjatović N, Uskoković D. Poly(D,L-
+lactide-co-glycolide)/hydroxyapatite core-shell nanospheres, Part 4: A change of the surface
+properties during degradation process and the corresponding in vitro cellular response. Coll. Surf.
+B: Biointer. 2012; 91:144.
+
+128. Mitranić I, Stevanović M, Nedeljković B, Ignjatović N, Uskoković D. Controllable synthesis of
+
+horseradish peroxidase loaded Poly(D,L-lactide) nanospheres. J. Bionanosci. 2009; 3:22.
+
+129. Liu Y, Sun J, Zhang P, He Z. Amphiphilic polysaccharide-hydrophobicized graft polymeric
+
+micelles for drug delivery nanosystems. Curr. Med. Chem. 2011; 18:2638. [PubMed: 21568897]
+130. Sinico C, Fadda AM. Vesicular carriers for dermal drug delivery. Expert Opin. Drug Deliv. 2009;
+
+6:813. [PubMed: 19569979]
+
+131. Connor E, Mwamuka J, Gole A, Murphy C, Wyatt M. Gold nanoparticles are taken up by human
+
+cells but do not cause acute cytotoxicity. Small. 2005; 1:325. [PubMed: 17193451]
+
+132. Jacobs DR, Gross MD, Tapsell LC Jr. Food synergy: An operational concept for understanding
+
+nutrition. Am. J. Clin. Nutr. 2009; 89:1543S. [PubMed: 19279083]
+
+133. Uskoković V. On holism and the contextual character of natural qualities. World Futures: J. Gen.
+
+Evol. 2012; 68:406.
+
+134. Bernards DA, Desai TA. Nanotemplating of biodegradable polymer membranes for constant-rate
+
+drug delivery. Adv. Mater. 2010; 22:2358. [PubMed: 20376851]
+
+135. Guczi L, Horvath D, Paszti Z, Peto G. Effect of treatments on gold nanoparticles: Relation
+
+between morphology, electron structure and catalytic activity in CO oxidation. Catalysis Today.
+2002; 72:101.
+
+136. Müller B. Tailoring biocompatibility: Benefitting patients. Mater. Today. 2010; 13:58.
+137. Guo J, Morris JR, Ihm Y, Contescu CI, Gallego NC, Duscher G, Pennycook SJ, Chisholm MF.
+Topological defects: Origin of nanopores and enhanced adsorption performance in nanoporous
+carbon. Small. 2012; 8:3283. [PubMed: 22893594]
+
+138. Beer S. On the nature of models: Let us now praise famous men and women too (from Warren
+
+McCulloch to Candace Pert). Inform. Sci. 1999; 2:69.
+
+139. Mistry AS, Mikos AG. Tissue engineering strategies for bone regeneration. Adv. Biochem.
+
+Engin./Biotech. 2005; 94:1.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 30
+
+140. Walcott S, Sun SX. A mechanical model of actin stress fiber formation and substrate elasticity
+sensing in adherent cells. Proc. Natl. Acad. Sci. USA. 2010; 107:7757. [PubMed: 20385838]
+
+141. Guo WH, Frey MT, Burnham NA, Wang YL. Substrate rigidity regulates the formation and
+
+maintenance of tissues. Biophys. J. 2006; 90:2213. [PubMed: 16387786]
+
+142. Noorden RV. Science publishing: The trouble with retractions. Nature. 2011; 478:26. [PubMed:
+
+21979026]
+
+143. Uskoković V. Challenges for the modern science in its descend towards nano scale. Curr.
+
+Nanosci. 2009; 5:372.
+
+144. Meyer JC, Kisielowski C, Erni R, Rossell MD, Crommie MF, Zettl A. Direct imaging of lattice
+
+atoms and topo-logical defects in graphene membranes. Nano Lett. 2008; 8:3582. [PubMed:
+18563938]
+
+145. Dasgupta NP, Jung HJ, Trejo O, McDowell MT, Hryciw A, Brongersma M, Sinclair R, Prinz FB.
+
+Atomic layer deposition of lead sulfide quantum dots on nanowire surfaces. Nano Lett. 2011;
+11:934. [PubMed: 21319844]
+
+146. Melikhov IV, Lazic S, Vuković Ž. The effect of dissolved impurity on calcium phosphate
+
+nucleation in supersaturated medium. J. Coll. Interface Sci. 1989; 127:317.
+
+147. Ball P. Does hot water freeze first? Phys. World. 2006; 19:19.
+148. Malaiya A, Vyas SP. Preparation and characterization of indomethacin magnetic nanoparticles. J.
+
+Microencapsul. 1988; 5:243. [PubMed: 3199309]
+
+149. Menzinger M, Jankowski P. Heterogeneities and stirring effects in the Belusov-Zhabotinskii
+
+reaction. J. Phys. Chem. 1986; 90:1217.
+
+150. Debuigne F, Jeunieau L, Wiame M, Nagy JB. Synthesis of organic nanoparticles in different W/O
+
+microemulsions. Langmuir. 2000; 16:7605.
+
+151. Madsen HEL. Influence of magnetic field on the precipitation of some inorganic salts. J. Crystal
+
+Growth. 1995; 152:94.
+
+152. Reitas AMBF, Andgraf FJGL, Yvlt JN, Iuletti MG. Influence of magnetic field in the kinetics of
+
+crystallization of diamagnetic and paramagnetic inorganic salts. Crystal Res. Tech. 1999;
+34:1239.
+
+153. Uskoković V. Composites comprising cholesterol and car-boxymethyl cellulose. Coll. Surf. B:
+
+Biointer. 2008; 61:250.
+
+154. Bunker CE, Harruff BA, Pathak P, Payzant A, Allard LF, Sun YP. Formation of cadmium sulfide
+nanoparticles in reverse micelles: Extreme sensitivity to preparation procedure. Langmuir. 2004;
+20:5642. [PubMed: 15986713]
+
+155. Hou W-T, Feng Q-L. Morphologies and growth model of biomimetic fabricated calcite crystals
+using amino acids and insoluble matrix membranes of mytilus edulis. Crystal Growth Design.
+2006; 6:1086.
+
+156. Kilian KA, Bugarija B, Lahn BT, Mrksich M. Geometric cues for directing the differentiation of
+
+mesenchymal stem cells. Proc. Natl. Acad. Sci. USA. 2010; 107:4872. [PubMed: 20194780]
+
+157. Butcher DT, Alliston T, Weaver VM. A tense situation: Forcing tumour progression. Nature Rev.
+
+Cancer. 2009; 9:108. [PubMed: 19165226]
+
+158. Sohn K, Kim F, Pradel KC, Wu J, Peng Y, Zhou F, Huang J. Construction of evolutionary tree for
+
+morphological engineering of nanoparticles. ACS Nano. 2009; 3:2191. [PubMed: 19621938]
+
+159. Kosmulski, M. Surfactant Science Series. Vol. 145. Boca Raton: CRC Press, Francis & Taylor;
+
+2009. Surface charging and points of zero charge.
+
+160. Walsh D, Lebeau B, Mann S. Morphosynthesis of calcium carbonate (Vaterite) microsponges.
+
+Adv. Mater. 1999; 11:324.
+
+161. Ninham, B. Self-Assembly—Some Thoughts. In: Robinson, BH., editor. Self-Assembly.
+
+Amsterdam: IOS Press; 2003.
+
+162. Wiedemann-Bidlack FB, Kwak SY, Beniash E, Yamakoshi Y, Simmer JP, Margolis HC. Effects
+
+of phosphorylation on the self-assembly of native full-length porcine amelogenin and its
+regulation of calcium phosphate formation in vitro . J. Struct. Biol. 2011; 173:250. [PubMed:
+21074619]
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 31
+
+163. Sahasrabuddhe AA, Gaikwad SM, Krishnasastry MV, Khan MI. Studies on recombinant single
+
+chain Jacalin lectin reveal reduced affinity for saccharides despite normal folding like native
+Jacalin. Protein Sci. 2004; 13:3264. [PubMed: 15557267]
+
+164. Baneyx F, Chu D, Zhu W, Kitayaporn S, Schwartz D, Murali-Krishna K, Kavanagh T.
+
+Biomineralization and size control of calcium phosphate core protein shell nanoparticles:
+Potential for vaccine applications. Bioconj. Chem. 2012; 23:610.
+
+165. Kitchens K, Kolhatkar R, Swaan P, Eddington N, Ghandehari H. Transport of poly(amidoamine)
+
+dendrimers across caco-2 cell monolayers: Influence of size, charge and fluorescent labeling.
+Pharm. Res. 2006; 23:2818. [PubMed: 17094034]
+
+166. Lacruz RS, Hacia JG, Bromage TG, Boyde A, Lei Y, Xu Y, Miller JD, Paine ML, Snead ML.
+
+The circadian clock modulates enamel development. J. Biol. Rhythms. 2012; 27:237. [PubMed:
+22653892]
+
+167. Eiden-Assmann S, Viertelhaus M, Heiss A, Hoetzer KA, Felsche J. The influence of amino acids
+on the biomineralization of hydroxyapatite in gelatin. J. Inorg. Biochem. 2002; 91:481. [PubMed:
+12175941]
+
+168. Bastos IN, Platt GM, Andrade MC, Soares GD. Theoretical study of Tris and Bistris effects on
+
+simulated body fluids. J. Mol. Liq. 2008; 139:121.
+
+169. Serro AP, Saramago B. Influence of sterilization on the mineralization of Ti implants induced by
+
+incubation in various biological model fluids. Biomater. 2003; 24:4749.
+
+170. Nouri A, Castro R, Santos JL, Fernandes C, Rodrigues J, Tomás H. Calcium phosphate-mediated
+
+gene delivery using simulated body fluid (SBF). Int. J. Pharm. 2012; 434:199. [PubMed:
+22664458]
+
+171. Eagle H. Buffer combinations for mammalian culture. Science. 1971; 174:500. [PubMed:
+
+5110427]
+
+172. Good NE, Winget GO, Winter W, Connolly TN, Izawa S, Singh RMM. Hydrogen ion buffers for
+
+biological research. Biochem. 1966; 5:467. [PubMed: 5942950]
+
+173. Swim HE, Parker RF. Non-bicarbonate buffers in cell culture media. Science. 1955; 122:466.
+
+[PubMed: 13255874]
+
+174. Muralithran G, Ramesh S. The effects of sintering temperature on the properties of
+
+hydroxyapatite. Ceram. Int. 2000; 26:221.
+
+175. Wu W-Y, Kung W-Y, Ting J-M. Effect of pH values on the morphology of zinc oxide
+
+nanostructures and their photolumines-cence spectra. J. Am. Ceram. Soc. 2011; 94:699.
+
+176. Wang H, Lee J-K, Moursi A, Lannutti JL. Ca/P ratio effects on the degradation of hydroxyapatite
+
+in vitro . J. Biomed. Mater. Res. 2003; 67A:599.
+
+177. Konstanchuk, I. Reactivity of nanocrystalline magnesium. In: Uskoković, DP., editor. YUCO-
+MAT: Programme and the Book of Abstracts. Belgrade: Materials Research Society of Serbia;
+2011.
+
+178. Uskoković V, Drofenik M. Synthesis of nanocrystalline nickel-zinc ferrites via a microemulsion
+
+route. Mater. Sci. Forum. 2004; 453-4:225.
+
+179. Naughton BT, Clarke DR. Lattice expansion and saturation magnetization of nickel-zinc ferrite
+
+nanoparticles prepared by aqueous precipitation. J. Am. Ceram. Soc. 2007; 90:3541.
+
+180. Goldman, A. Modern Ferrite Technology. 2nd. New York: Springer; 2006. p. 57
+181. Kornberg, A. Of Serendipity and Science. 2009. Retrieved from http://www.rockefeller.edu/
+
+pubinfo/Pasteur/Kornberg_essay.html
+
+182. Banaszek A. Company profits from side effects of glaucoma treatment. CMAJ. 2011; 183:E1058.
+
+[PubMed: 21876012]
+
+183. Roberts, RM. Serendipity: Accidental Discoveries on Science. New York: Wiley; 1989.
+184. Ball P. Chancing upon chemical wonders. Chem. World. 2006; 3:32.
+185. Uskoković V, Bertassoni LE. Nanotechnology in dental sciences: Moving towards a finer way of
+
+doing dentistry. Materials. 2010; 3:1674.
+
+186. Uskoković V, Ševkušić M, Uskoković DP. Strategies for the scientific progress of the developing
+
+countries in the new millennium: The case of serbia in comparison with slovenia and South
+Korea. Sci. Techn. Innov. Studies. 2010; 6:33.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 32
+
+187. Uskoković V, Uskoković DP. Extrapolating strategies for the scientific and technological
+
+development of underdeveloped societies from the examples of South Korea, Slovenia and
+Serbia. Int. J. Tech. Manag. Sustain. Dev. 2011; 10:125.
+
+188. Barth JV, Costantini G, Kern K. Engineering atomic and molecular nanostructures at surfaces.
+
+Nature. 2005; 437:671. [PubMed: 16193042]
+
+189. Hobbs RG, Petkov N, Holmes JD. Semiconductor nanowire fabrication by bottom-up and top-
+
+down paradigms. Chem. Mater. 2012; 24:1975.
+
+190. Baum R. Nanotechnology: Drexler and smalley make the case for and against ‘molecular
+
+assemblers,’. Chem. Engin. News. 2003; 81:37.
+
+191. Smalley RE. Of chemistry love and nanobots. Sci. Am. 2001; 285:76. [PubMed: 11524973]
+192. Dolberg DS, Bissell MJ. Inability of Rous sarcoma virus to cause sarcomas in the avian embryo.
+
+Nature. 1984; 309:552. [PubMed: 6203040]
+
+193. Meda P, Bosco D, Chanson M, Giordano E, Vallar L, Wollheim C, Orci L. Rapid and reversible
+secretion changes during uncoupling of rat insulin-producing cells. J. Clin. Invest. 1990; 83:759.
+[PubMed: 1697604]
+
+194. Brereton HC, Carvell MJ, Asare-Anane H, Roberts G, Christie MR, Persaud SJ, Jones PM.
+
+Homotypic cell contact enhances insulin but not glucagon secretion. Biochem. Biophys. Res.
+Commun. 2006; 344:995. [PubMed: 16643853]
+
+195. Uskoković V. Isn’t self-assembly a misnomer? multi-disciplinary arguments in favor of co-
+
+assembly. Adv. Colloid Interface Sci. 2008; 141:37. [PubMed: 18406396]
+
+196. Uskoković V. On the relational character of mind and nature. Res Cogitans: J. Phil. 2009; 6:286.
+197. Uskoković V. On the light doves and learning on mistakes. Axiomathes: Int. J. Ontol. Cogn. Syst.
+
+2009; 19:17.
+
+198. Uskoković V, Drofenik M. Synthesis of materials within reverse micelles. Surf. Rev. Lett. 2005;
+
+12:239.
+
+199. Uskoković V, Drofenik M. Reverse micelles: Inert nano-reactors or physico-chemically active
+guides of the capped reactions. Adv. Colloid Interface Sci. 2007; 133:23. [PubMed: 17400166]
+200. Uskoković V, Drofenik M. A mechanism for theformation of nanostructured NiZn ferrites via a
+microemulsion-assisted precipitation method. Colloids Surf. A: Physicochem. Eng. Asp. 2005;
+266:168.
+
+201. Monopoli MP, Aberg C, Salvati A, Dawson KA. Biomolecular coronas provide the biological
+
+identity of nanosized materials. Nature Nanotech. 2012; 7:779.
+
+202. Prapainop K, Witter DP, Wentworth P Jr. A chemical approach for cell-specific targeting of
+nanomaterials: Small-molecule-initiated misfolding of nanoparticle corona proteins. J. Am.
+Chem. Soc. 2012; 134:4100. [PubMed: 22339401]
+
+203. Tarasevich BJ, Howard CJ, Larson JL, Snead ML, Simmer JP, Paine M, Shaw WJ. The
+
+nucleation and growth of calcium phosphate by amelogenin. J. Crystal Growth. 2007; 304:407.
+204. George A, Veis A. Phosphorylated proteins and control over apatite nucleation, crystal growth
+
+and inhibition. Chem. Rev. 2008; 108:4670. [PubMed: 18831570]
+
+205. Hunter GK, O’Young J, Grohe B, Karttunen M, Goldberg HA. The flexible polyelectrolyte
+
+hypothesis of protein-biomineral interaction. Langmuir. 2010; 26:18639. [PubMed: 20527831]
+
+206. Valdez D, Le Huerou JY, Gindre M, Urbach W, Waks M. Hydration and protein folding in water
+
+and in reverse micelles: Compressibility and volume changes. Biophys. J. 2001; 80:2751.
+[PubMed: 11371450]
+
+207. Moilanen DE, Spry DB, Levinger NE, Fayer MD. Confinement or properties of the interface?
+
+dynamics of nanoscopic water in reverse micelles. J. Am. Chem. Soc. 2007; 129:14311.
+[PubMed: 17958424]
+
+208. Milne, AA. Winnie-the-Pooh. New York: Penguin; 1926.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 33
+
+Figure 1.
+Critical length scales for some of the key inventions from the history of humanity. A shift
+across this scale towards ever smaller dimensions paralleled the advancement of humanity
+from the stone age to the modern age. Hence, as the products of the most sophisticated
+technologies of the day progressed from prehistoric huts, cutting tools and garments to
+modern musical instruments, automobiles and mechanical clocks to computers, nanocopters
+and nanomotors, the critical lengths shifted from millimeter to micrometer to nanometer
+scale, respectively.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 34
+
+Figure 2.
+(a) A hypothetic curve illustrating deviation (—) from a theoretically predicted dependence
+of a physical quantity on the particle size of a material (- - -) once the latter enters the
+domain of nanosizes (< 100 nm); (b) hardness or strength of a material as a function of
+normalized grain size, demonstrating the deviations of experimentally obtained values from
+those predicted by the Hall-Petch law at sufficiently low, sub-100-nm grain sizes. Reprinted
+with permission from [5], C. S. Pande and K. P. Cooper, Nanomechanics of hall-petch
+relationship in nanocrystalline materials. Progress Mat. Sci. 54, 689 (2009). © 2009,
+Elsevier.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 35
+
+Figure 3.
+(a) The melting point of Al2O3-Cr2O3 alloy as a function of Cr2O3 content and the particle
+size; (b) the melting point of indium as a function of the particle size for two different
+preparation procedures; (c) the phase diagram for a germanium-based alloy and two
+different particle sizes—54 and 32 nm; (d) local density of states, a measure of the band gap,
+decreasing in direct proportion to the particle volume and indicating a metal-insulator
+transition atV≈ 0.01–1 nm3 in case of three different metals: Au, Cd and Ag, but not Pd.
+Reprinted with permissions from [6], L. H. Liang, et al., Size-dependent continuous binary
+solution phase diagram. Nanotech. 14, 438 (2003). © 2003, IOP Publishing; From [7], K. Lu
+and Z. H. Jin, Melting and superheating of low-dimensional materials. Curr. Op. Solid State
+Mat. Sci. 5, 39 (2001). © 2001, Elsevier; From [8], E. A. Sutter and P. W. Sutter, Size-
+dependent phase diagram of nanoscale alloy drops used in vapor-liquid-solid growth of
+semiconductor nanowires. ACS Nano 4, 4943 (2010). © 2010, American Chemical Society.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 36
+
+Figure 4.
+The particle size effect on: (a) the resistivity of nanostructured Nb films at different
+temperatures (the scale on the left corresponds to the films withd≥ 8 nm and the scale on the
+right to the films with d < 8 nm); (b) the resistivity of the same material at 10 and 300 K; (c)
+specific conductivity of CaO as a function of the grain size; (d) specific conductivity of Gd-
+doped CeO2 as a function of the grain boundary surface area per unit mass. Reprinted with
+permissions from [9], S. Bose, et al., Size induced metal insulator transition in
+nanostructured Niobium thin films: Intragranular and intergranular contributions. J. Phys:
+Condens. Matt. 18, 4553 (2006). © 2006, IOP Publishing; From [10], H. L. Tuller, Ionic
+conduction in nanocrystalline materials. Solid State Ionics 131, 143 (2000). © 2000,
+Elsevier; From [11], A. Tschöpe, et al., Grain size-dependent electrical conductivity of
+polycrystalline cerium oxide I: Experiments. Solid State Ionics 139, 255 (2001). © 2001,
+Elsevier.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 37
+
+Figure 5.
+The parallel increase in nickel–zinc ferrite particle size ((a), left), saturation magnetization
+((a), right, left Y -axis) and remanence ((a), right, right Y -axis) with an increase in the
+annealing temperature, indicative of ferromagnetic-tosuperparamagnetic transition that
+entails a drop in the particle size below circa 5 nm; magnetization and particle size of zinc
+ferrite thin films as a function of the substrate temperature, indicative of the paramagnetic-
+to-ferromagnetic transition following the transformation of the material from bulk to
+nanosized form (b); the effect of particle size on sensitivity of SnO2 (c) and In2O3 sensors
+(d) in detecting CO/H2 (a) and NO2 gases. Reprinted with permissions from [16], V.
+Uskokovic´ and M. Drofenik, Synthesis of lanthanum-strontium manganites by oxalate-
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 38
+
+precursor co-precipitation methods in solution and in reverse micellar microemulsion. J.
+Magn. Magn. Mater. 303, 214 (2006). © 2006, Elsevier; From [17], M. Bohra, et al., Large
+room temperature magnetization in nanocrystalline zinc ferrite thin films. Appl. Phys. Lett.
+88, 262506 (2006). © 2006, American Institute of Physics; From [18], N. Yamazoe, New
+approaches for improving semiconductor gas sensors. Sensors Actuators B: Chem. 5, 7
+(1991). © 1991, Elsevier; From [19], A. Gurlo, et al., Grain size control in nanocrystalline
+In2O3 semiconductor gas sensors. Sensors Actuators B: Chem. 44, 327 (1997). © 1997,
+Elsevier.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 39
+
+Figure 6.
+(a) Dispersion as a measure of the percentage of atoms located on the particle surface as a
+function of the number of atoms comprising the particle; (b) quantum confinement effect
+illustrated on standing waves that fit within a resonance box only in specific wavelengths.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 40
+
+Figure 7.
+Gold nanoparticles whose color is defined by their size and shape, demonstrating that size-
+dependent properties are the clue to the tremendous potential of nanoscale objects. Reprinted
+with permission from [20], Retrieved from http://www.discovernano.northwestern.edu/
+whatis/index_html/sizematters_html (2012). © 2012, Northwestern University.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 41
+
+Figure 8.
+A bridge joining the coasts of materials science and life science on which some of the most
+exciting research in the field of nanoscience is about to take place.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 42
+
+Figure 9.
+Percentage of depolarized adenocarcinomic human alveolar basal epithelial cells (A549)
+after incubation with micro- and nano-particles of different chemical composition. Reprinted
+with permission from [28], H. L. Karlsson, et al., Size-dependent toxicity of metal oxide
+particles—A comparison between nano- and micrometer size. Toxicol. Lett. 188, 112
+(2009). © 2009, Elsevier.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 43
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Figure 10.
+Nanosized spherical particles of calcium phosphate (left) acting as subunits in microscopic
+blocks of material (right) formed by aggregation during desiccation of the powder.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 44
+
+Figure 11.
+Comparison of the release of a 376 Da organic molecule, fluorescein, from calcium
+phosphate nanoparticles (
+aggregated particles exhibit burst release of the entire amount of the drug in a short span of
+time, the agglomerated ones display a more sustained release thereof.
+
+) shown in Figure 10. While non-
+
+) and their agglomerates (
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 45
+
+Figure 12.
+An example of biocompatible magnetic nanoparticles with biomedical application:
+hyperthermia cancer therapy. By controlling the stochiometry of the given manganite
+compound (La1-xSrxMnO3+ (0.16 < x < 0.5)), its Neel point, equivalent to the maximal
+temperature achievable due to relaxation energy losses in alternate magnetic field, could be
+varied and optimized for the given therapy (mild hyperthermic or more intensive
+thermoblastic, e.g.).
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 46
+
+Figure 13.
+SEM images of polylactide-co-glycolide spheres encapsulating a vinyl sulfone cysteine
+proteinase inhibitor, aggregated and partially coalesced without PVA as a dispersant (a) and
+at [PVA] = 1 wt% (c), and narrowly dispersed at [PVA] = 0.5 wt% (b).
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 47
+
+Figure 14.
+SEM images of silicon-nanowire-coated silicon microbeads applicable as oral drug delivery
+carriers due to their ability to (a) adhere onto epithelial surface of the intestine by entwining
+with microvilli on the cell surface and (b) open the tight junction spacing in-between
+individual cells and enhance paracellular transport of the drug the particles are loaded with
+via the capillary effect.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 48
+
+Figure 15.
+FITC-tagged silicon-nanowire-coated silica beads adhering onto the epithelial monolayer of
+Caco-2 cells; yellow color appears only where red-stained ZO-1 molecules of the tight
+junction and green-stained drug overlap, indicating the paracellular transport of the drug
+from the apical to the basolateral side of the epithelium. The cell nucleus is stained in blue.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 49
+
+Figure 16.
+(a) The release of bovine serum albumin (BSA) as a function of time for amorphous (ACP)
+and nanocrystalline calcium phosphate (HAP); (b) XRD patterns confirming the amorphous
+and nanocrystalline nature of the two powders.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 50
+
+Figure 17.
+(a) A curve showing the typical drug concentration at the target site as a function of time
+during repetitive drug administration in high dosages (red line) in comparison with the ideal
+therapeutic dose achievable through sustained release from drug-loaded carriers (blue
+intercepted line); (b) The drug concentration peak and period during which it stays above the
+MIC, two parameters important to optimize depending on the nature of the antibiotic drug:
+concentration- or time-dependent; (c) Histological slides showing greater pervasiveness of
+abnormal tissue in Ewing’s sarcoma, a form of bone cancer, compared to osteomyelitis
+where infection is more localized, advances as a front and is demarcated by the white line
+composed of leukocytes; (d) SEM image of dental enamel, an example of a nonvascular
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 51
+
+hard tissue, 98 wt% of which is composed of calcium phosphate, and an optical micrograph
+of trabecular bone, the most vascular hard tissue, with blood vessels outlined in red (the
+scale bar represents 0.5 mm). Reprinted with permission from [121], R. Quintilliani,
+Pharmacokinetics/pharmacodynamics for critical care clinicians. Crit. Care Clin. 24, 335
+(2008). © 2008, Elsevier; From [122], S. L. Ellis, et al., The relationship between bone,
+hemopoietic stem cells, and vasculature, Blood 118, 1516 (2011). © 2011, American
+Society of Hematology.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 52
+
+Figure 18.
+Mpemba effect states that even though the temperature of cold water reaches the freezing
+point faster than the warm water when cooled under the same conditions, warm water will
+be the one to freeze faster.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 53
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Figure 19.
+Cholesterol particles prepared using 2-propanol of laboratory grade (a) and technical grade
+(b) as the solvent.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+Uskoković
+
+Page 54
+
+Figure 20.
+A “nano” train showing how synthesis of new materials, evaluation of their properties, their
+processing and integration into components and then assembly into consumer products with
+a specific performance are all interconnected.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 55
+
+Figure 21.
+(a) A protein inside of a reverse micelle; (b) an empirically derived plot of the adiabatic
+compressibility of cytochrome c, lysozyme and lactoglobulin, indicative of the dimensions
+and tertiary structure of the protein, as a function of parameterwthe molar ratio between the
+amount of water and the amount of surfactant in the microemulsion, directly proportional to
+the size of reverse micelle; (c) a blue shift in the absorbance of water in the microwave
+range induced by a decrease in the size of nanoscopic water pools of reverse micelles, along
+with (d) the number of water molecules in reverse micelles of the given size. Reprinted with
+permission from [206], D. Valdez, et al., Hydration and protein folding in water and in
+reverse micelles: compressibility and volume changes. Biophys. J. 80, 2751 (2001). © 2001,
+Elsevier; From [207], D. E. Moilanen, et al., Confinement or properties of the interface?
+dynamics of nanoscopic water in reverse micelles, J. Am. Chem. Soc. 129, 14311 (2007). ©
+2007, American Chemical Society.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Uskoković
+
+Page 56
+
+Figure 22.
+(a) Hypothetic release curves for a drug delivery device under two different measurement
+-), and the
+regimens: daily replacements of a comparatively small volume of the solvent (-
+usage of a considerably larger solvent volume, with no daily replenishments thereof (-
+-);
+(b) A disparity between the prediction of global market share of nanotechnologies in 2009
+made by the National Science Foundation five years earlier and the true value estimated in
+2011. Source: BCC Research Reports 2005 and 2011.
+
+J Biomed Nanotechnol. Author manuscript; available in PMC 2013 September 10.
+
+

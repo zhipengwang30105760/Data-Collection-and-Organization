@@ -1,0 +1,1224 @@
+International Journal of Nanomedicine
+
+Open Access Full Text Article
+
+Dovepress
+
+open access to scientiﬁc and medical research
+
+O R I G I N A L R E S E A R C H
+
+Montmorillonite-norﬂoxacin nanocomposite
+intended for healing of infected wounds
+
+This article was published in the following Dove Press journal:
+International Journal of Nanomedicine
+
+Fatima García-Villén1
+Angela Faccendini2
+Carola Aguzzi1
+Pilar Cerezo1
+Maria Cristina Bonferoni2
+Silvia Rossi2
+Pietro Grisoli2
+Marco Ruggeri2
+Franca Ferrari2
+Giuseppina Sandri2
+Cesar Viseras1
+1Department of Pharmacy and
+Pharmaceutical Technology, Faculty of
+Pharmacy, University of Granada,
+Campus of Cartuja, Granada, Spain;
+2Department of Drug Sciences, Faculty of
+Pharmacy, University of Pavia, Pavia
+27100, Italy
+
+Background: Chronic cutaneous wounds represent a major issue in medical care and are often
+prone to infections.
+Purpose: The aim of this study was the design of a clay mineral-drug nanocomposite based
+on montmorillonite and norﬂoxacin (NF, antimicrobial drug) as a powder for cutaneous
+application, to enhance wound healing in infected skin lesions.
+Methods: The nanocomposite has been prepared by means of an intercalation solution
+procedure. Adsorption isotherm, solid-state characterization of the nanocomposite, drug
+loading capacity and its release have been performed. Moreover, cytocompatibility, in vitro
+ﬁbroblast proliferation and antimicrobial activity against Pseudomonas aeruginosa and
+Staphylococcus aureus were assessed.
+Results: The clay drug adsorption isotherm demonstrates that the mechanism of NF inter-
+calation into montmorillonite galleries is the adsorption as one single process, due to the
+charge–charge interaction between protonated NF and negatively charged montmorillonite
+edges in the interlayer space. Nanocomposite is biocompatible and it is characterized by
+antimicrobial activity greater than the free drug: this is due to its nanostructure and controlled
+drug release properties.
+Conclusion: Considering the results obtained, NF–montmorillonite nanocomposite seems
+a promising tool to treat infected skin lesions or skin wounds prone to infection, as chronic
+ulcers (diabetic foot, venous leg ulcers) and burns.
+Keywords: montmorillonite, norﬂoxacin, nanocomposite, solid state characterization,
+wound healing
+
+Introduction
+Wound repair is a complex and tightly regulated physiological process: different
+cell types, including immune cells, are involved. Wound healing includes home-
+ostasis stage (clotting and immune activation), inﬂammation (recruitment of neu-
+trophilis and macrophages, production of cytokine and growth factor), proliferation
+phase, tissue neoformation (reepithelialization, angiogenensis and granulation) and
+subsequent remodeling of neoformed-tissue.1 Considering the crucial barrier role of
+the skin, nonhealing wounds (such as venous leg ulcers, diabetic foot ulcers, arterial
+insufﬁciency and pressure ulcers) and burns impose substantial morbidity and
+mortality, deeply affecting the quality of life with high economic burden2
+
+Severe cutaneous wounds represent a major issue in medical care, with approxi-
+mately 300 million chronic and 100 million traumatic wound patients worldwide.
+Moreover, chronic wounds affect roughly 37 million of patients globally. Only in
+the USA in 2017,3 the skin wounds led to an estimated direct health care cost of
+
+Correspondence: Giuseppina Sandri
+Department of Drug Sciences, University of
+Pavia, Viale Taramelli 12, Pavia 27100, Italy
+Tel +39 038 298 7728
+Email giuseppina.sandri@unipv.it
+
+Cesar Viseras
+Department of Pharmacy and
+Pharmaceutical Technology, Faculty of
+Pharmacy, University of Granada, Campus of
+Cartuja, 18071 s/n, Granada, Spain
+Tel +3 495 824 9551
+Email cviseras@ugr.es
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+http://doi.org/10.2147/IJN.S208713
+
+International Journal of Nanomedicine 2019:14 5051–5060
+
+5051
+© 2019 García-Villén et al. This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/
+terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing
+the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed.
+For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).
+
+García-Villén et al
+
+$ 75 billion and an indirect cost of $ 11 billion. The
+population aging is likely to dramatically increase the
+incidence of chronic wounds due to the rising prevalence
+of type 2 diabetes, peripheral vascular disease and meta-
+bolic syndrome. In addition, surgery, more common in the
+elder population, could cause risk of wound complication
+especially in patients affected by diabetes.
+
+While acute wounds generally heal without signiﬁcant
+interventions, chronic wounds are challenging and are
+characterized by an intrinsic inability to heal.
+
+The presence of microbial contamination occurring at
+wound bed signiﬁcantly and deeply alter the normal recov-
+ery phases, leading to a possible impairment of the healing
+path and ﬁnally to nonhealing wounds. Moreover, among
+skin wounds, burns require special attention because they
+are often prone to infections and to abnormal scarring.1
+
+The employment of antimicrobial agents, particularly
+antibiotics, in the treatment of nonhealing wounds is parti-
+cularly controversial due to the possible rising of resistance.
+However, the nanoparticle-based approach, creating anti-
+microbial nanotherapeutics, seems a valid option to elim-
+inate bacterial infections, avoiding antimicrobial resistance.
+In fact, it is reported that nanomaterials interact with bac-
+teria and microorganisms upon multiple interactions such as
+electrostatic attraction, hydrophobic and Van der Waals
+forces through surface interactions. Moreover, the physico-
+chemical properties of nanomaterials allow multiple path-
+ways to interact with microorganisms, and this makes them
+promising candidates to achieve enhanced therapeutic efﬁ-
+cacy against multidrug-resistant infections4 In literature,
+different therapeutic approaches based on nanostructures
+and several types of nanomaterials (including electrospun
+nanoﬁbers, hydrogel,
+showed improved antibacterial
+properties) are reported.5–9 These systems are generally
+polymer-based and prepared with high energy and sophis-
+ticated processes.
+
+Recently, the studies focused on nanocomposites based
+on clay minerals and drugs and/or biopolymers evidence
+the capability of these to interact with biological structures
+and open opportunities for tissue engineering and in parti-
+cular for wound healing. Nanocomposites are prepared
+with simple procedures (spontaneous absorption of organic
+moieties into/onto clay following the mixture of the com-
+ponents in solution) easy to scale up. Moreover, the var-
+ious characteristics of clay minerals in terms of the
+composition may offer a range of possibilities to develop
+systems able to facilitate both antimicrobial activity of
+loaded antibacterial drugs, mainly due to the capability to
+
+Dovepress
+
+decrease water activity10–12 and cell adhesion, prolifera-
+tion and neotissue formation.13,14
+
+Given this premise, the aim of this study is to design
+and develop nanocomposite based on montmorillonite
+(VHS, clay mineral) and norﬂoxacin (NF, antimicrobial
+drug) as a powder for cutaneous application intended for
+the treatment of infected wounds to enhance their healing.
+NF is a synthetic antibacterial ﬂuoroquinolone, active
+against a broad spectrum of Gram-positive and Gram-
+negative aerobic bacteria. Its mechanism of action consists
+in the inhibition of DNA gyrase enzyme causing an interrup-
+tion of deoxyribonucleic acid synthesis.15 In the literature, it
+is proposed as a prophylactic drug in wound healing, some-
+times as a component of scaffolds and wound dressings.15–18
+A NF-montmorillonite nanocomposite was prepared by
+means of
+to obtain
+a powder characterized by means of adsorption isotherm
+and solid-state, drug loading capacity and release and
+antimicrobial properties.16–22
+
+intercalation technique in order
+
+Materials and methods
+Materials
+NF (Sigma Aldrich-Merck, Italy) and a pharmaceutical
+grade montmorillonite (VHS) (Veegum® HS, Vanderbilt,
+USA) were used. VHS was dried in oven (approximately
+40°C) for at least 48 hrs prior to be used.
+
+Methods
+Clay-drug adsorption isotherm
+The intercalation solution technique has been chosen as the
+methodology to study the adsorption of NF onto VHS.
+Firstly, a ﬁxed amount of clay mineral (100 mg) were
+dispersed into 5 mL of a glacial acetic acid:water (1:1) to
+achieve the dissolution of NF (initial concentrations of drug
+(C0) ranging from 5·10−5 to 1·10−2 M). These dispersions
+were protected from light,
+in
+a thermostatic bath (25°C ±1°C) for 24 hrs and subse-
+quently centrifuged (9000 rpm, 45 mins) in order to separate
+the solid phase containing the nanocomposite (VHS-NF).
+At this point, the equilibrium concentration of NF in the
+supernatant (Ce) was determined at 273 nm by UV spectro-
+scopy (UV-Vis spectrophotometer Lambda 25, Perkin
+Elmer, Italy). It was assumed that the difference between
+C0 and Ce corresponded to the amount of NF adsorbed onto
+VHS and the amount of drug retained per gram of clay was
+calculated. The obtained results were mathematically ﬁtted
+(TableCurve 2D, Systat Software Inc., UK) to obtain the
+
+stirred (150 rpm)
+
+5052
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+International Journal of Nanomedicine 2019:14
+
+Dovepress
+
+monolayer adsorption capacity of the clay and the adsorp-
+tion rate constant, according to a mechanist model able to
+describe the adsorption of drug molecules onto solid inor-
+ganic surfaces.13–25
+
+Solid state characterization
+X-ray powder diffraction (XRPD) analysis was carried out
+(X’Pert Pro model, Malven
+using a diffractometer
+Panalytical)
+detector
+(X’Celerator) and a spinning sample holder. The diffracto-
+gram patterns were recorded using random oriented
+mounts with CuKα radiation, operating at 45 kV and 40
+mA, in the range 4–60 º2θ.
+
+equipped with
+
+solid-state
+
+a
+
+Fourier-transform infrared spectroscopy (FT-IR) spectra
+of the powdery samples were obtained with a JASCO 6,200
+apparatus equipped with a Ge ATR. All analyses were per-
+formed from 400 to 4,000 cm−1 with a resolution of 2 cm−1,
+and results processed with Spectra Manager v2 software.
+
+Thermogravimetric analysis (TGA) (mod. TGA-50H,
+Shimadzu) was performed using a vertical oven and
+a precision of 0.001 mg. Approximately 40 mg of each
+sample were weighted in aluminum sample pans. The
+experiments were performed in 30–950°C range, atmo-
+spheric air and a heating rate of 10°C/min. Additionally,
+differential scanning calorimetry (DSC) analyses were
+done in a Mettler Toledo and using aluminum crucibles.
+The temperature range was deﬁned between 30ºC and
+400ºC at a heating rate of 10ºC/min. All the analyses
+were done in atmospheric air.
+
+Measurements of zeta potential (ζ) of both the clay and
+the nanocomposite were performed in an aqueous solution
+with a concentration 0.05% w/V by using a Zetasizer Nano
+ZS90 apparatus (Malvern Panalytical, USA).
+
+High-Resolution Transmission Electron Microscopy
+was performed by means of a FEI Titan G2 60–300 ultra-
+high-resolution transmission electron microscope coupled
+with analytical electron microscopy (AEM) performed
+with a SUPER-X silicon-drift windowless
+energy-
+dispersive X-ray spectroscopy detector. AEM spectra
+were saved in mode scanning transmission electron micro-
+scopy with a high-angle annular dark ﬁeld detector. X-ray
+chemical element maps were also collected. The samples
+were directly deposited onto copper grids (300 mesh
+coated by farmvar/carbon ﬁlm, Agar Scientiﬁc).
+
+García-Villén et al
+
+(PerkinElmer Series 200) apparatus using as stationary
+phase Zorbax Esclipse XDB-C8 column (4.6 mm × 150
+mm, silica particle size 5 μm) at 25°C, as mobile phase
+7:15:78 (% v/v) acetonitrile/methanol/citric acid (0.4 M),
+ﬂuxed at 1 mL/min (time of analysis 15 mins). The quan-
+tiﬁcation was
+as maximum
+absorption wavelength.21 The method was linear in the
+range of 200–1 μg/mL with R2 higher than 0.995.
+
+assessed at 275 nm,
+
+An exact amount of nanocomposite or free drug was
+dispersed in 3 mL of saline solution (NaCl 0.9% w/v). At
+preﬁxed times, 500 µL of dissolution medium was collected
+and the total volume replaced. Each sample was ﬁltered (HA
+0.22 μm, Millipore) before HPLC analysis.
+
+Antibacterial activity measurements
+The antimicrobial activity of nanocomposite compared to
+NF as a free drug was evaluated against the bacteria strains
+Staphylococcus aureus ATCC 6538 and Pseudomonas aer-
+uginosa ATCC 15442. In particular, killing time was deter-
+mined as the exposure time required to kill a standardized
+microbial inoculum.26 Bacteria used for killing time eva-
+luation were grown overnight in Tryptone Soya Broth
+(Oxoid; Basingstoke) at 37°C. The bacteria cultures were
+centrifuged at 2,000 rpm for 20 mins to separate cells from
+broth and then suspended in PBS (pH 7.3). The suspension
+was diluted to adjust the number of cells to 1×107–1×108
+CFU/ml.
+
+An exact amount of nanocomposite VHS-NF or NF
+was added to the microorganism suspensions to obtain 5
+μg/mL NF concentrations.
+
+For each microorganism, a suspension was prepared in
+PBS without drug and used as control. Bacterial suspen-
+sions were incubated at 37°C. Viable microbial counts
+were evaluated after contact for 0, 5 and 24 hrs with the
+samples and microorganism suspensions grown in the
+same conditions and used as control.
+
+The bacterial colonies were enumerated in Tryptone
+Soya Agar (Oxoid; Basingstoke) after incubation at 37°C
+for 24 hrs.
+
+The microbiocidal effect value was calculated for each
+test organisms and contact times according to the follow-
+ing equation27
+
+ME ¼ logNc logNd
+
+Drug release
+NF released from nanocomposite and NF-free drug disso-
+lution were assessed by means of HPLC-UV/DAD
+
+where Nc is the number of CFU of the control microbial
+suspension and Nd is the number of CFU of the microbial
+suspension in presence of drug.
+
+International Journal of Nanomedicine 2019:14
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+5053
+
+García-Villén et al
+
+In vitro biocompatibility: ﬁbroblasts
+Biocompatibility (cytotoxicity) was evaluated using ﬁbro-
+blasts (normal human dermal ﬁbroblasts, from juvenile
+foreskin from 2 to 5 passages, PromoCell, WVR, Italy).
+
+Fibroblasts were grown in DMEM (Lonza, I), 10% v/v
+(FBS (EuroClone, Italy) and penicillin/streptomycin solution
+(pen/strep, 100 UI/100 μm/mL, Sigma Aldrich-Merck, Italy)
+VHS (1.2 mg/mL), NF (0.1 mg/mL) and VHS-NF
+(VHS: 1.2 mg/mL and NF 0.1 mg/mL) were suspended/
+solubilized in cell culture medium and put in contact with
+the cells in suspension just after cell seeding in 96-well
+plate at seeding density of 35,000 cells/well. Fibroblasts
+were grown for 2 days. Fibroblast growth on tissue culture
+plastic was considered as standard growth (control).
+
+At preﬁxed end point, cell growth was assessed by
+means of MTT test. Brieﬂy, the medium was removed
+and 50 µL of MTT solution (Sigma Aldrich, Italy) at
+2.5 mg/mL concentration in Hank’s Buffered Salt
+Solution pH 7.4 was added to cover each scaffold for
+3 hrs. Subsequently, MTT solution was removed from
+each well, and the substrates were washed with 200 µL
+of PBS. After the removal of PBS, 100 µL of DMSO was
+put in each well, and the absorbance was assayed at 570
+nm by means of an ELISA plate reader (Imark Absorbance
+Reader, Biorad, Italy), with a reference wavelength of 690
+nm. Cell viability was expressed as optical density (OD).
+
+Statistical analysis
+Statistical differences were evaluated by means of Mann-
+Whitney (Wilcoxon) W test (Statgraphics Centurion XV,
+Statistical Graphics Corporation, MD, USA). Differences
+were considered signiﬁcant at p<0.05, and each signiﬁcant
+p-value is reported in the captions.
+
+Results and discussion
+Clay-drug adsorption isotherm
+Equilibrium adsorption isotherm is shown in Figure 1,
+where experimental points are plotted as ns (moles of NF
+retained per gram of VHS) vs Ce (mol/l). The kinetic
+model used to ﬁt
+the adsorption data is expressed by
+Equation (1) (Table 1), which describes drug adsorption
+as one single process. Montmorillonite is a phyllosilicate
+based on two tetrahedral sheets of silica sandwiching
+a central octahedral sheet of alumina spaced out interlayer
+spaces (galleries). On this basis, protonated NF molecules
+interact to the active sites of VHS located at edges and
+within interlayer space of montmorillonite, thus forming
+
+Dovepress
+
+Figure 1 Equilibrium adsorption isotherm of NF and VHS (mean values ± s.d.; n=3).
+Abbreviations: NF, norﬂoxacin; VHS, montmorillonite.
+
+Table 1 Fitting equation and parameters for the adsorption of
+NF onto VHS
+
+ns
+
+R2
+
+m
+
+m
+
+Equation (1)*
+ns ¼ ks
+kþ1
+Notes: *Ns: mol of NF per gram of VHS (mol/g); ns
+m: monolayer retention capacity
+(mol/g); C: equilibrium concentration (mol/l); k: kinetic equilibrium constant (mean
+values ± s.d.; n=3).
+Abbreviations: NF: norﬂoxacin; VHS: montmorillonite.
+
+0.0007±0.00002
+
+130.4±0.43
+
+0.9959
+
+k
+
+a drug monolayer onto the clay mineral
+interlayer
+surface.28 Figure 1 shows that the obtained theoretical
+curve satisfactorily described the experimental points, as
+conﬁrmed by the
+calculated correlation coefﬁcient
+(R2>0.99, Table 1). Additionally,
+the relatively high
+value of kinetic equilibrium constant (k) (Table 1) can be
+ascribed to great stability of the resultant VHS-NF system.
+
+Solid-state characterizations
+X-ray diffractogram patterns of the nanohybrid and pristine
+components are plotted in Figure 2. VHS diffractogram
+shows reﬂections ascribable to a highly pure homoionic
+Na montmorillonite, as previously described.16,24,29,30
+
+In particular, VHS shows d001 basal reﬂection at 7.5º 2θ
+which indicates an interlayer space of 12 Å according to
+Bragg’s
+law. These results are consistent with the
+literature.24,31 Diffractogram of VHS-NF also shows typical
+reﬂections of montmorillonite with the exception of the basal
+reﬂection d001, which shifts to lower 2θ values (5,94º 2θ) in
+comparison with the pristine clay mineral. The correspond-
+ing interlayer space is expanded (≅15 Å), indicating the
+presence of NF molecules adsorbed into clay mineral struc-
+ture. Moreover, this new basal reﬂection turns to be sharper
+and more intense in comparison with VHS basal reﬂection,
+
+5054
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+International Journal of Nanomedicine 2019:14
+
+Dovepress
+
+García-Villén et al
+
+piperazine ring. The vibration of methyl group, methylene
+of ethyl side chain and piperazine groups determine multi-
+in 3,070–2,500 cm−1.
+ple and more deﬁned bands
+A shoulder at 2,500 cm−1 is attributable to hydrogen
+bonded O–H groups, and this also conﬁrms the hydrate
+state of NF. Band detected at 1,728 cm−1 belongs to the
+C=O stretch of the carboxylic acid.32,35,36 The ﬁrst and
+intense band in the ﬁngerprint region belongs to NF qui-
+nolone
+ring vibration located between 1,600 and
+1,650 cm−1.32 The vibrations of C=C of the aromatic
+ring are also located in this area (1,400–1,600 cm−1).
+the band at 1,030 cm−1 is attributable to
+Moreover,
+C-F vibration.35 Regarding VHS, vibrational band at
+3,622 cm−1 belongs to octahedral layer-OH groups (Al-
+OH-Al, Al-OH-Mg and Mg-OH-Mg vibrations) typical of
+clay minerals. Moreover,
+the broad band around
+3,400 cm−1 are due to the stretching of OH from hydration
+H2O molecules located in the interlayer space of VHS.
+Moreover, H2O molecules coordinated to the VHS
+exchangeable cations create a band al 1,632 cm−1. The
+most
+located at
+985 cm−1, is due to Si-O-Si in-plane vibration for layered
+silicates. Out-of-plane Si-O-Si stretching is responsible for
+the shoulder appearing at 1,100 cm−1. On the other hand,
+the overlapped band at 914 cm−1 is related to Si-O-Al
+stretching mode, while bending vibration of Si-O-Al
+occurs at 512 cm−1.24,29,30,37
+
+the VHS spectrum,
+
+intense band of
+
+Vibrational bands of the octahedral Al-OH-Al, Al-OH-
+Mg and Mg-OH-Mg are also present in the VHS-NF. The
+adsorption of NF in the VHS interlayer space produces
+a displacement of the hydrated exchangeable cations, thus
+reducing the intensity of the H2O band around 3,400 cm−1.35
+Moreover, the presence of the drug in the nanohybrid can be
+identiﬁed by its typical vibrational bands located between
+1,760 and 1,200 cm−1, all of them coinciding with the NF
+spectrum. Particularly, the band at 1,702 cm−1 belongs to
+C=O of the carboxylic acid of NF. From 1,200 cm−1 onwards,
+the intense vibrations of the clay mineral obscure the NF
+bands in the same region. Nonetheless,
+the bands in
+3,070–2,500 cm−1 range, which correspond to N-H and
+CH2 of the drug, are not visible in the VHS-NF spectrum.
+This disappearance can be related to the stiffening of the
+corresponding functional group due to the position of
+adsorbed NF molecules in the interlayer space of VHS.
+
+The TGA analysis of NF showed total drug decomposi-
+tion before 630°C (Figure 4 – high panel). The ﬁrst weight
+loss gradually occurs in the temperature range from 30°C to
+196°C, with an inﬂection point at 100°C. This step is due to
+
+Figure 2 XRPD diffraction patterns of NF, VHS and VHS-NF.
+Abbreviations: NF, norﬂoxacin; VHS, montmorillonite; VHS-NF, montmorillonite/
+norﬂoxacin nanocomposite.
+
+which is an indicator of a highly ordered VHS-NF nanohy-
+brid structure. Diffractogram of NF has been found to be
+a combination of both anhydrous and sesquihydrate forms
+(Figure 2).32–34 Nonetheless, any of these reﬂections are
+observed in VHS-NF diffraction pattern,
+indicating the
+absence of crystalline drug on the nanohybrid surface. The
+XRPD analysis suggests that the nanocomposite is charac-
+terized by NF intercalation into the VHS galleries.
+
+Figure 3 reports the FTIR spectra of VHS-NF in com-
+parison to NF and VHS. The infrared spectrum of NF
+shows typical bands of a hydrated form of NF. In particu-
+lar, the broad bands between 3,600 and 3,250 cm−1 belong
+to hydration water stretching (O-H stretching vibration, at
+about 3404 cm−1) together with N-H vibrations of the
+
+Figure 3 FT-IR spectra of NF, VHS and VHS-NF.
+Abbreviations: NF, norﬂoxacin; VHS, montmorillonite; VHS-NF: montmorillonite/
+norﬂoxacin nanocomposite.
+
+International Journal of Nanomedicine 2019:14
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+5055
+
+García-Villén et al
+
+Dovepress
+
+gaseous products.39 Parallelly DSC thermogram (low
+panel) shows an exothermic event at 370 °C, and this is in
+coincidence of the ﬁrst inﬂection point of the TGA corre-
+sponding to NF decomposition.
+
+TGA thermogram of VHS (Figure 4 – high panel)
+shows a ﬁrst slight weight loss of 2% (w/w), which corre-
+sponds to a small amount of hydration water. Moreover,
+a typical clay mineral dehydroxylation step40 is present
+with an onset at about 600°C and an offset at 720°C,
+accounting 3% (w/w) weight loss. From 800°C onwards,
+there is no signal that could be related to VHS impurity
+decomposition
+corderite,
+cristobalite),40 to conﬁrm its high purity. DSC thermogram
+of VHS conﬁrms its stability in the temperature range
+evaluated (Figure 4 – low panel).
+
+quartz, mullite,
+
+(such
+
+as
+
+VHS-NF nanocomposite shows TGA thermogram
+characterized by overlapped events (Figure 4 – high
+panel). In particular, it is evident that water loss is fol-
+lowed by the decomposition of NF and dehydroxylation of
+clay. Considering that NF fully decomposes before 630ºC,
+the difference in weight loss between VHS and VHS-NF
+reveals that VHS-NF is characterized by 16% (w/w) NF
+loading. Moreover, NF is present in an amorphous state in
+VHS-NF since melting event is not evident in VHS-NF
+DSC thermogram (Figure 4 – low panel) while the actual
+NF loading can be justiﬁed by the exothermic phenom-
+enon observable at 300–345°C.
+
+A 0.05% w/v VHS aqueous suspension is character-
+ized by zeta potential of −43.5±0.9 mV, thus conﬁrming
+the negative net charge of the clay. A 0.05% w/v VHS-
+NF nanocomposite aqueous suspension shows a zeta
+potential of −15.9±0.3 mV. VHS and NF probably inter-
+act via electrostatic bonds partially shielding the nega-
+tive charges located into VHS galleries. The dissolution
+of NF in acetic acid during the nanocomposite prepara-
+tion causes the protonation of its nitrogen atom in the
+piperazine ring. In this condition, NF in solution, posi-
+tively charged, can interact with the negatively charges
+in the interlayer space of VHS, normally compensated
+by exchangeable cations increasing the zeta potential.
+Similar results were reported for clay–cationic moieties
+interaction products.39,40
+
+High-resolution TEM microphotographs of VHS sam-
+ple (Figure 5A) show the typical layered morphology of
+montmorillonite. The EDX analysis performed in the
+marked zone (red square) conﬁrms the nature of VHS,
+thanks to the presence of Si, Al and O, together with Mg
+and Fe and the typical exchangeable cations (Na, K and Ca).
+
+Figure 4 Thermal analysis (TGA – high panel curves and DSC – low panel curves)
+of NF, VHS and VHS-NF samples.
+Abbreviations: NF, norﬂoxacin; VHS, montmorillonite; VHS-NF, montmorillonite/
+norﬂoxacin nanocomposite.
+
+the evaporation of water and corresponds to the ﬁrst
+endothermic event of the corresponding DSC curve (Figure
+4 – low panel). Nonetheless, the presence of an inﬂection
+point could be related to different types of crystallization
+water. In fact, different hydrated forms of NF have been
+reported in literature, such as dihydrate and sesquihydrate,
+among others.38 In particular, water evaporation of NF dihy-
+drate form is described as a two different step process
+although this is not visible in DSC proﬁle and on the contrary
+it is evident in TGA proﬁle.38 These results are related to the
+presence of both dihydrate and sesquihydrate forms (as con-
+ﬁrmed by XRPD diffraction peaks) having overlapped steps
+of H2O molecule evaporation in DSC. The sharp and intense
+endothermic peak located at 227°C (T onset 218°C) corre-
+sponds to NF melting point, conﬁrmed by the absence of
+weight loss in the TGA curve of NF. Decomposition of the
+drug starts at 300°C according to TGA proﬁle and three
+overlapped steps (inﬂection point at ~370°C and ~500°C)
+are attributable to the loss of different functional groups of
+the NF molecule
+and/or
+
+(6C2H2+3NO+HF+1/2H2)38
+
+5056
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+International Journal of Nanomedicine 2019:14
+
+Dovepress
+
+Si
+
+A
+
+O
+
+1 μm
+
+C
+
+O
+
+3
+
+Si
+
+García-Villén et al
+
+2
+
+1
+
+AI
+
+Mg
+
+4
+
+K
+
+Ca
+
+1.60
+
+2.40
+
+3.20
+
+4.00
+
+4.80
+
+5.60
+
+Na
+0.80
+
+B
+
+C
+
+4
+
+HAADF
+
+MAG:57.0kx HV:300kv
+
+Fe
+
+6.40
+
+KeV
+
+1 μm
+
+D
+
+N
+
+AI
+
+Fe
+
+F
+
+Cu
+
+Mg
+
+120 140 160
+
+180
+
+200 220 240
+
+300 nm
+
+AI
+
+N
+
+Mg
+
+F
+
+100
+
+200
+
+300
+300 nm
+
+400
+
+1
+
+2
+
+O
+N
+
+F
+
+Cu
+
+1
+
+0
+
+KeV
+
+2
+
+AI
+
+Mg
+
+Si
+
+N
+
+Fe
+
+F
+
+Figure 5 TEM microphotographs and EDX analysis of VHS (A), NF (B) and VHS-NF (C) together with EDX mapping of VHS-NF (D).
+Abbreviations: NF, norﬂoxacin; VHS, montmorillonite; VHS-NF, montmorillonite/norﬂoxacin nanocomposite.
+
+NF (Figure 5B) microphotographs conﬁrm NF crystal-
+linity and agree with XRDP results. Moreover, the EDX
+analysis evidences the presence of C, O and N (typical of
+organic compounds) and that of F peculiar of NF
+molecule.
+
+VHS-NF nanocomposite (Figure 5C) shows a morphol-
+ogy similar to that of VHS. The NF crystals are not detectable
+in this sample, in agreement with XRPD results (no peak of
+NF diffraction in VHS-NF sample, Figure 2) although the NF
+presence in nanocomposite is conﬁrmed by means of the
+EDX analysis. The elemental composition evidences the
+characteristic components of montmorillonite (Si, Al, Mg)
+and those of organic compounds (C, N, O); moreover, F is
+also detectable as NF indicator. Additionally, EDX maps
+(Figure 5D) corroborate not only the presence of VHS and
+NF in nanocomposite but also the homogeneous distribution
+of NF into montmorillonite, conﬁrming the presence of NF
+
+monolayer adsorbed onto the interlayer spaces, as resulted
+from adsorption studies.
+
+Drug release
+Figure 6 reports the NF release proﬁles (%) evaluated for NF
+and VHS-NF nanocomposite. The dissolution of NF from
+free drug is very rapid and reaches 80% within the ﬁrst hour
+and the plateau value in 2 hrs at 100% of NF release.
+
+VHS-NF shows a signiﬁcantly lower NF release proﬁle
+and the whole dose is released in 48 hrs evidencing
+a controlled release. Considering the application (skin lesions),
+the capability of the system to control drug release should
+decrease the number of applications over time. This is an
+important aspect to allow the healing of lesion since the
+frequent medical treatment could impair the granulation tissue
+and new tissue formation. Moreover, the slower release proﬁle
+of NF could allow to control microbial growth over time.
+
+International Journal of Nanomedicine 2019:14
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+5057
+
+García-Villén et al
+
+Dovepress
+
+Figure 6 % of norﬂoxacin (NF) released from NF and VHS-NF (mean values ± s.d.; n=3).
+Abbreviations: NF, norﬂoxacin; VHS-NF, montmorillonite/norﬂoxacin nanocomposite.
+
+from NF and VHS-NF against
+
+Antimicrobial properties
+Figure 7 reports microbiocidal effect vs time proﬁles of
+NF released
+a)
+Pseudomonas aeruginosa and b) Staphylococcus aureus.
+Pseudomonas aeruginosa is a common Gram-negative,
+rod-shaped bacterium, facultative anaerobe, of considerable
+medical importance. It is recognized as a multidrug-resistant
+pathogen for its ubiquity, its intrinsically advanced antibiotic
+resistance mechanisms and its association with hospital-
+acquired infections such as various sepsis syndromes.
+P. aeruginosa is considered opportunistic insofar as serious
+infection often occurs during existing diseases or conditions,
+most notably traumatic burns.
+
+Staphylococcus aureus is a Gram-positive, round-shaped
+bacterium and, as P. aeruginosa, it is a facultative anaerobe. It
+
+is an usual member of the microbiota of the body, frequently
+found on the skin, usually acting as a commensal. However, it
+can also become an opportunistic pathogen, being a common
+cause of skin infections. The onset of S. aureus strains anti-
+biotic-resistant (such as methicillin-resistant S. aureus) is
+a worldwide emergence in clinical medicine.
+
+NF is reported in the literature as effective against both
+P. aeruginosa and S. aureus having a MIC of 2 μg/mL in
+both cases.39 However, the microbicidal effect is slightly
+higher against P. aeruginosa than that against S. aureus.
+The loading of NF in montmorillonite in VHS-NF nano-
+composite signiﬁcantly increases NF microbicidal effect.
+The increase of NF potency due to the nanocomposite is
+probably due to high surface area to volume ratio, which
+increases the contact area with target organisms.40
+
+Figure 7 Microbiocidal effect vs time proﬁles of norﬂoxacin (NF) released from NF and VHS-NF against (A) Pseudomonas aeruginosa and (B) Staphylococcus aureus (mean
+values ± s.d.; n=3).
+Abbreviations: NF, norﬂoxacin; VHS-NF, montmorillonite/norﬂoxacin nanocomposite.
+
+5058
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+International Journal of Nanomedicine 2019:14
+
+Dovepress
+
+Figure 8 Bioavailability (OD) evaluated for VHS (1.2 mg/mL), NF (0.1 mg/mL) and
+VHS-NF (VHS: 1.2 mg/mL and NF 0.1 mg/mL) compared to the control (growth
+medium, standard growth conditions) (mean values ± s.d.; n=8) (Statistical analysis
+W test: control vs VHS-NF: p=0.030).
+Abbreviations: NF, norﬂoxacin; VHS, montmorillonite; VHS-NF, montmorillonite/
+norﬂoxacin nanocomposite.
+
+Fibroblast in vitro biocompatibility
+Figure 8 reports bioavailability (OD, optical density) eval-
+uated for VHS (1.2 mg/mL), NF (0.1 mg/mL) and VHS-
+NF (VHS: 1.2 mg/mL and NF 0.1 mg/mL). VHS and NF
+are characterized by OD values not signiﬁcantly different
+from the control (growth medium, standard growth condi-
+tions). The nanocomposite, VHS-NF, is characterized by
+OD signiﬁcantly lower than that of the control although it
+is higher than 80% and this is normally considered as the
+lower limit for the cytocompatibility.
+
+VHS, NF and VHS-NF are characterized by no signiﬁ-
+cantly different OD to suggest similar behaviour. Anyhow, it
+should be considered that the cytocompatibility is assayed to
+a 20-fold concentration higher than that considered for anti-
+microbial assay. This evidences that nanocomposite does not
+impair ﬁbroblast growth also at concentrations higher than
+those effective against P. aeruginosa and S. aureus as assessed
+in the antimicrobial assay.
+
+Conclusions
+NF is loaded into montmorillonite to have a nanocomposite
+by means of adsorption mechanism, as one single process. In
+particular, protonated NF molecules interact with the active
+sites of montmorillonite located at edges and within its
+interlayer space, thus forming a drug monolayer onto the
+clay mineral interlayer surface. NF in the nanocomposites
+is in an amorphous state, and its loading is homogeneous and
+causes an expansion of montmorillonite interlayer spaces.
+Moreover, the nanocomposite causes a prolonged NF release
+over time. The nanocomposite is characterized by good
+biocompatibility in vitro toward ﬁbroblasts, and it is able to
+
+García-Villén et al
+
+increase antimicrobial potency of the free drug against
+P. aeruginosa and S. aureus, Gram-negative and Gram-
+positive bacteria, respectively, that are often a concurrent
+cause of wound chronicization, leading to a possible impair-
+ment of the healing path and ﬁnally to nonhealing wounds.
+NF-montmorillonite nanocomposite demonstrates to
+possess suitable properties as a tool to enhance wound
+healing in infected wounds:
+the possibility to use
+a ﬂexible dosage, as a powder for cutaneous application,
+should also allow easy administration, depending on lesion
+dimensions.
+
+Disclosure
+The authors report no conﬂicts of interest in this work.
+
+References
+1. Mafazzal Jahromi MA, Sahandi Zangabad P, Moosavi Basri SM,
+et al. Nanomedicine and advanced technologies for burns: preventing
+infection and facilitating wound healing. Adv Drug Deliv Rev.
+2018;123:33–64. doi:10.1021/acsami.9b01508
+
+2. Stejskalova A, Almquist BD. Using biomaterials to rewire the pro-
+cess of wound repair. Biomater Sci. 2017;5:1421–1434. doi:10.1002/
+ppsc.201800420
+
+3. Lim HW, Collins SA, Resneck JS, et al. The burden of skin disease in
+the United States. J Am Acad Dermatol. 2017;76:958–972, e952.
+doi:10.1039/C8TB02491J
+
+4. Gupta A, Mumtaz S, Li C-H, et al. Combatting antibiotic-resistant
+bacteria using nanomaterials. Chem Rev Soc. 2019;48:415–427.
+doi:10.1021/acsami.8b09656
+
+5. Lv D, Wang R, Tang G, et al. Ecofriendly electrospun membranes
+loaded with visible-light-responding nanoparticles for multifunctional
+usages: highly efﬁcient air ﬁltration, dye scavenging, and bactericidal
+2019;11:12880–12889.
+activity. ACS Appl Mater
+doi:10.1007/s10570-017-1409-4
+
+Interfaces.
+
+6. Sun L, Li A, Hu Y. et al. Self-assembled ﬂuorescent and antibacterial
+GHK-Cu nanoparticles for wound healing applications part. Part Syst
+Charact;2019. 1800420. doi:10.1002/ppsc.201800420
+
+7. Gao S, Tang G, Hua D, et al. Stimuli-responsive bio-based polymeric
+systems and their applications. J Mater Chem B. 2019;7:709–729.
+doi:10.1039/C8TB02491J
+
+8. Ding Q, Xu X, Yue Y, et al. Nanocellulose-mediated electroconduc-
+tive self-healing hydrogels with high strength, plasticity, viscoelasti-
+city,
+stretchability, and biocompatibility toward multifunctional
+applications. ACS Appl Mater Interfaces. 2018;10:27987–28002.
+doi:10.1021/acsami.8b09656
+
+9. Han J, Yue Y, Wu Q, et al. Effects of nanocellulose on the structure
+and properties of poly(vinyl alcohol)-borax hybrid foams. Cellulose.
+2017;24:4433–4448. doi:10.1007/s10570-017-1409-4
+
+10. Bramhill J, Ross S, Ross G. Bioactive nanocomposites for tissue
+repair and regeneration: a review. Int J Environ Res Public Health.
+2017;14:1–21. doi:10.3390/ijerph14010066
+
+11. Sandri G, Bonferoni MC, Ferrari F, et al. Montmorillonite-chitosan-
+silver sulfadiazine nanocomposites for topical treatment of chronic
+skin lesions: in vitro biocompatibility, antibacterial efﬁcacy and gap
+closure cell motility properties. Carbohydr Polym. 2014;102:970–977.
+doi:10.1016/j.carbpol.2013.10.029
+
+12. Naumenko EA, Guryanov ID, Yendluri R, Lvov YM, Fakhrullin RF.
+Clay nanotube-biopolymer composite scaffolds for tissue engineering.
+Nanoscale. 2016;8:7257–7271. doi:10.1039/C6NR00641H
+
+International Journal of Nanomedicine 2019:14
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+5059
+
+García-Villén et al
+
+13. Sandri G, Aguzzi C, Rossi S, et al. Halloysite and chitosan oligo-
+saccharide nanocomposite for wound healing. Acta Biomater.
+2017;57:216–224. doi:10.1016/j.actbio.2017.05.032
+
+14. Sandri G, Bonferoni MC, Rossi S, et al. Clay minerals for tissue
+regeneration, repair, and engineering. In: Wound Healing Biomaterials.
+Ed. Agren M. Chapter 19, Vol. 2. Sawston, Cambridge, UK: Woodhead
+Publishing, Elsevier, 2016:385–402. Functional Biomaterials.
+
+15. Wiles JA, Bradbury BJ, Pucci MJ. New quinolone antibiotics:
+a survey of the literature from 2005 to 2010. Exp Opin Therap
+Patents. 2010;20:1295–1319. doi:10.1517/13543776.2010.505922
+
+16. Nakamura M, Nishida T, Mishima H, Otori T. Effects of antimicro-
+bials on corneal epithelial migration. Curr Eye Res. 1993;12
+(8):733–740. doi:10.3109/02713689308995769
+
+17. Malipeddi VR, Dua K, Sara UVS, et al. Comparative evaluation of
+transdermal formulations of norﬂoxacin with silver sulfadiazine cream,
+USP, for burn wound healing property. J Burns Wounds. 2006;5:e4.
+
+18. Mpharm KD, Ramana MV, Sara UVS, et al. Preparation and evalua-
+tion of transdermal plasters containing norﬂoxacin: a novel treatment
+for burn wound healing. Eplasty. 2010;10:e44.
+
+19. Tian Z, Zhang Y, Liu X, Chen C, Guiltinan MJ, Allcock HR.
+Biodegradable polyphosphazenes containing antibiotics: synthesis,
+characterization, and hydrolytic release behavior. Polym Chem.
+2013;4:1826. doi:10.1039/c2py21064a
+
+20. Galperin A, Smith K, Geisler NS, Bryers JD, Ratner BD. Precision-
+porous polyHEMA-based scaffold as an antibiotic-releasing insert for
+a scleral bandage. ACS Biomater Sci Eng. 2015;1:593–600.
+doi:10.1021/acsbiomaterials.5b00133
+
+healing
+
+21. Mahmoud AA. Salama AH Norﬂoxacin-loaded collagen/chitosan
+skin reconstruction: preparation, evaluation and
+Pharm Sci.
+
+scaffolds
+Eur
+in-vivo wound
+2016;83:155–165. doi:10.1016/j.ejps.2015.12.026
+
+22. Rusanu A, Tamaş AI, Vulpe R, Rusu A, Butnaru M, Vereştiuc L.
+Biocompatible and biodegradable hydrogels based on chitosan and gelatin
+with potential applications as wound dressings. J Nanosci Nanotechnol.
+2017;17:4584–4591. doi:10.1166/jnn.2017.14298
+
+assessment.
+
+for
+
+J
+
+23. Carazo E, Borrego-Sánchez A, García-Villén F, et al. Assessment of hal-
+loysite nanotubes as vehicles of isoniazid. Colloids Surf B Biointerfaces.
+2017;160:337–344. doi:10.1016/j.colsurfb.2017.09.036
+
+24. Carazo E, Borrego-Sánchez A, García-Villén F, et al. Adsorption and
+characterisation of palygorskite-isoniazid nanohybrids. Appl Clay Sci.
+2018;160:180–185. doi:10.1016/j.clay.2017.12.027
+
+25. Viseras C, Aguzzi C, Cerezo P, Bedmar MC. Biopolymer–clay nano-
+controlled drug delivery. Mat Sci Technol.
+
+composites
+2008;24:1020–1026. doi:10.1179/174328408X341708
+
+for
+
+Dovepress
+
+27. Rossi S, Marciello M, Sandri G, et al. Wound dressings based on
+chitosans and hyaluronic acid for the release of chlorhexidine diace-
+tate in skin ulcer therapy. Pharm Dev Technol. 2007;12:415–422.
+doi:10.1080/10837450701366903
+
+28. Viseras MT, Aguzzi C, Cerezo P, Viseras C, Valenzuela C.
+Equilibrium and kinetics of 5-aminosalicylic acid adsorption by
+halloysite. Micropor Mesopor Mat. 2008;108:112–116. doi:10.1016/
+j.micromeso.2007.03.033
+
+29. Borrego-Sánchez A, Carazo E, Aguzzi C, Viseras C, Sainz-Díaz CI.
+Biopharmaceutical improvement of praziquantel by interaction with
+montmorillonite and sepiolite. Appl Clay Sci. 2018;160:173–179.
+doi:10.1016/j.clay.2017.12.024
+
+30. Aguzzi C, Sandri G, Bonferoni C, et al. Solid state characterisation of
+silver sulfadiazine loaded on montmorillonite/chitosan nanocompo-
+Surf B Biointerfaces.
+site
+2014;113:152–157. doi:10.1016/j.colsurfb.2013.08.043
+
+healing. Colloids
+
+for wound
+
+31. Tunç S, Duman O. Preparation and characterization of biodegradable
+methyl cellulose/montmorillonite nanocomposite ﬁlms. Appl Clay
+Sci. 2010;48:414–424. doi:10.1016/j.clay.2010.01.016
+
+32. Mazuel C. Norﬂoxacin. In: Florey K, Brittain H, Mazzo D, et al.,
+editors. Analytical Proﬁles of Drug Substances and Excipients. 1st
+ed. London Academic Press Inc; 1991:557–600.
+
+33. Katdare AV, Ryan JA, Bavitz
+
+JF, Erb DM, Guillory JK.
+Characterization of hydrates of Norﬂoxacin. Mikrochim Acta. 1986;
+III:1–12. doi:10.1007/BF01196816
+
+34. Puigjaner C, Barbas R, Portell A, Font-Bardia M, Alcobé X,
+Prohens R. Revisiting the solid state of norﬂoxacin. Cryst Growth
+Des. 2010;10:2948–2953. doi:10.1021/cg9014898
+
+35. Földvári M. Handbook of thermogravimetric system of minerals and
+its use in geological practice. In: Gyula M, Dezsö Simonyi OP,
+Tamás F, editors. Vol. 213. Budapest: Innova-Print Kft; 2011.
+
+36. Barry AL, Jones RN, Thornsberry C, Ayers LW, Gerlach EH,
+Sommers HM. Antibacterial activities of ciproﬂoxacin, norﬂoxacin,
+oxolinic acid, cinoxacin, and nalidixic acid. Antimicrob Agents
+Chemother. 1984;25:633–637. doi:10.1128/aac.25.5.633
+
+37. Baptista PV, McCusker MP, Carvalho A, et al. Nano-strategies to
+ﬁght multidrug resistant bacteria—“A battle of the titans”. Front
+Microbiol. 2018;9:1441. doi:10.3389/fmicb.2018.01441
+
+38. Kumar M, Curtis A, Hoskins C. Application of nanoparticle technol-
+ogies in the combat against anti-microbial resistance. Pharmaceutics.
+2018;10:11. doi:10.3390/pharmaceutics10010011
+
+39. Norrby SR,
+
+Jonsson M. Antibacterial activity of norﬂoxacin.
+doi:10.1128/
+
+1983;23:15–18.
+
+Antimicrob Agents Chemother.
+AAC.23.1.15
+
+26. Samanidou VF, Demetriou CE, Papadoyannis IN. Direct determination
+of four ﬂuoroquinolones, enoxacin, norﬂoxacin, oﬂoxacin, and cipro-
+ﬂoxacin, in pharmaceuticals and blood serum by HPLC. Anal Bioanal
+Chem. 2003;375(5):623–629. doi:10.1007/s00216-003-1749-9
+
+40. Wang Y, Zhu L, Dong Z, et al. Preparation and stability study
+of norﬂoxacin-loaded solid lipid nanoparticle
+suspensions.
+Colloids Surf B Biointerfaces. 2012;98:105–111. doi:10.1016/j.
+colsurfb.2012.05.006
+
+International Journal of Nanomedicine
+
+Publish your work in this journal
+
+Dovepress
+
+The International Journal of Nanomedicine is an international, peer-
+reviewed journal focusing on the application of nanotechnology in
+diagnostics, therapeutics, and drug delivery systems throughout the
+biomedical ﬁeld. This journal
+is indexed on PubMed Central,
+MedLine, CAS, SciSearch®, Current Contents®/Clinical Medicine,
+
+Journal Citation Reports/Science Edition, EMBase, Scopus and the
+Elsevier Bibliographic databases. The manuscript management system
+is completely online and includes a very quick and fair peer-review
+system, which is all easy to use. Visit http://www.dovepress.com/
+testimonials.php to read real quotes from published authors.
+
+Submit your manuscript here: https://www.dovepress.com/international-journal-of-nanomedicine-journal
+
+5060
+
+submit your manuscript | www.dovepress.com
+DovePress
+
+International Journal of Nanomedicine 2019:14
+
+

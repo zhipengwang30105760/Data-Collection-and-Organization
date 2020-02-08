@@ -1,0 +1,2 @@
+ewrtewtw.txt------------->doc0.txt
+sdfsd.txt------------->doc1.txt
